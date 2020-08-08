@@ -1,0 +1,1030 @@
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+PDF didn't factorize!
+Parameters: 
+  1) RooRealVar::                   n_exp_bineleGGF_proc_DY = 3285.72
+  2) RooRealVar::               n_exp_bineleGGF_proc_QCD_EM = 1407.12
+  3) RooRealVar::            n_exp_bineleGGF_proc_QCD_bcToE = 54.8687
+  4) RooRealVar::                   n_exp_bineleGGF_proc_WW = 887.078
+  5) RooRealVar::                  n_exp_bineleGGF_proc_WWW = 4.3019
+  6) RooRealVar::                  n_exp_bineleGGF_proc_WWZ = 4.7574
+  7) RooRealVar::                   n_exp_bineleGGF_proc_WZ = 235.811
+  8) RooRealVar::                  n_exp_bineleGGF_proc_WZZ = 0.6863
+  9) RooRealVar::      n_exp_bineleGGF_proc_WmHWWlnuqq_M125 = 2.6747
+ 10) RooRealVar::  n_exp_bineleGGF_proc_WmHtautaulnuqq_M125 = 0.564
+ 11) RooRealVar::      n_exp_bineleGGF_proc_WpHWWlnuqq_M125 = 4.0498
+ 12) RooRealVar::  n_exp_bineleGGF_proc_WpHtautaulnuqq_M125 = 0.8266
+ 13) RooRealVar::       n_exp_bineleGGF_proc_ZHWWlnuqq_M125 = 1.0913
+ 14) RooRealVar::   n_exp_bineleGGF_proc_ZHtautaulnuqq_M125 = 0.3237
+ 15) RooRealVar::                   n_exp_bineleGGF_proc_ZZ = 23.1094
+ 16) RooRealVar::                  n_exp_bineleGGF_proc_ZZZ = 0.0679
+ 17) RooRealVar::  n_exp_bineleGGF_proc_ggHtautaulnuqq_M125 = 3.8636
+ 18) RooRealVar::                  n_exp_bineleGGF_proc_top = 13011.4
+ 19) RooRealVar:: n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125 = 0.3447
+ 20) RooRealVar::                   n_exp_bineleVBF_proc_DY = 79.3306
+ 21) RooRealVar::               n_exp_bineleVBF_proc_QCD_EM = 183.143
+ 22) RooRealVar::            n_exp_bineleVBF_proc_QCD_bcToE = 300.061
+ 23) RooRealVar::                   n_exp_bineleVBF_proc_WW = 23.7796
+ 24) RooRealVar::                  n_exp_bineleVBF_proc_WWW = 0.1636
+ 25) RooRealVar::                  n_exp_bineleVBF_proc_WWZ = 0.2777
+ 26) RooRealVar::                   n_exp_bineleVBF_proc_WZ = 6.6523
+ 27) RooRealVar::                  n_exp_bineleVBF_proc_WZZ = 0.0429
+ 28) RooRealVar::      n_exp_bineleVBF_proc_WmHWWlnuqq_M125 = 0.016
+ 29) RooRealVar::      n_exp_bineleVBF_proc_WpHWWlnuqq_M125 = 0.0597
+ 30) RooRealVar::  n_exp_bineleVBF_proc_WpHtautaulnuqq_M125 = 0.0149
+ 31) RooRealVar::       n_exp_bineleVBF_proc_ZHWWlnuqq_M125 = 0.0757
+ 32) RooRealVar::   n_exp_bineleVBF_proc_ZHtautaulnuqq_M125 = 0.0049
+ 33) RooRealVar::                   n_exp_bineleVBF_proc_ZZ = 0.5636
+ 34) RooRealVar::                  n_exp_bineleVBF_proc_ZZZ = 0.0015
+ 35) RooRealVar::  n_exp_bineleVBF_proc_ggHtautaulnuqq_M125 = 0.4443
+ 36) RooRealVar::                  n_exp_bineleVBF_proc_top = 595.133
+ 37) RooRealVar:: n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125 = 0.0411
+ 38) RooRealVar::                    n_exp_binmuGGF_proc_DY = 3546.77
+ 39) RooRealVar::                n_exp_binmuGGF_proc_QCD_MU = 3850.76
+ 40) RooRealVar::                    n_exp_binmuGGF_proc_WW = 1335.01
+ 41) RooRealVar::                   n_exp_binmuGGF_proc_WWW = 6.5013
+ 42) RooRealVar::                   n_exp_binmuGGF_proc_WWZ = 6.5212
+ 43) RooRealVar::                    n_exp_binmuGGF_proc_WZ = 362.869
+ 44) RooRealVar::                   n_exp_binmuGGF_proc_WZZ = 1.1122
+ 45) RooRealVar::       n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 4.0351
+ 46) RooRealVar::   n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.8008
+ 47) RooRealVar::       n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 6.9691
+ 48) RooRealVar::   n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 1.0737
+ 49) RooRealVar::        n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 1.7196
+ 50) RooRealVar::    n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3323
+ 51) RooRealVar::                    n_exp_binmuGGF_proc_ZZ = 13.9973
+ 52) RooRealVar::                   n_exp_binmuGGF_proc_ZZZ = 0.0553
+ 53) RooRealVar::   n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 4.0821
+ 54) RooRealVar::                   n_exp_binmuGGF_proc_top = 19355
+ 55) RooRealVar::  n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.5259
+ 56) RooRealVar::                    n_exp_binmuVBF_proc_DY = 84.4624
+ 57) RooRealVar::                n_exp_binmuVBF_proc_QCD_MU = 845.802
+ 58) RooRealVar::                    n_exp_binmuVBF_proc_WW = 39.3685
+ 59) RooRealVar::                   n_exp_binmuVBF_proc_WWW = 0.321
+ 60) RooRealVar::                   n_exp_binmuVBF_proc_WWZ = 0.5449
+ 61) RooRealVar::                    n_exp_binmuVBF_proc_WZ = 5.8352
+ 62) RooRealVar::                   n_exp_binmuVBF_proc_WZZ = 0.0666
+ 63) RooRealVar::       n_exp_binmuVBF_proc_WmHWWlnuqq_M125 = 0.0318
+ 64) RooRealVar::   n_exp_binmuVBF_proc_WmHtautaulnuqq_M125 = 0.0145
+ 65) RooRealVar::       n_exp_binmuVBF_proc_WpHWWlnuqq_M125 = 0.08
+ 66) RooRealVar::   n_exp_binmuVBF_proc_WpHtautaulnuqq_M125 = 0.0384
+ 67) RooRealVar::        n_exp_binmuVBF_proc_ZHWWlnuqq_M125 = 0.034
+ 68) RooRealVar::    n_exp_binmuVBF_proc_ZHtautaulnuqq_M125 = 0.0234
+ 69) RooRealVar::                    n_exp_binmuVBF_proc_ZZ = 0.5065
+ 70) RooRealVar::                   n_exp_binmuVBF_proc_ZZZ = 0.0013
+ 71) RooRealVar::   n_exp_binmuVBF_proc_ggHtautaulnuqq_M125 = 0.5238
+ 72) RooRealVar::                   n_exp_binmuVBF_proc_top = 893.184
+ 73) RooRealVar::  n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125 = 0.0503
+ 74) RooRealVar::                                   w_max1j = 1.1
+ 75) RooRealVar::                                   w_max2j = 1.1
+ 76) RooRealVar::                                   w_min0j = 0
+ 77) RooRealVar::                                   w_min1j = 0.9
+ 78) RooRealVar::                                   w_min2j = 0.9
+Obs: 
+  1) RooRealVar::    CMS_th1x = 20.5
+  2) RooCategory:: CMS_channel = muVBF(idx = 3)
+
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8eb5ec0
+  Clients: 
+    (0x9068d60,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x6edf4d0,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x8eb7340,V-) RooRealVar::n_exp_bineleGGF_proc_ggHtautaulnuqq_M125 "n_exp_bineleGGF_proc_ggHtautaulnuqq_M125"
+    (0x8eb4be0,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_eleGGF_rebinPdf ""
+    (0x8fd8070,V-) RooRealVar::n_exp_bineleGGF_proc_DY "n_exp_bineleGGF_proc_DY"
+    (0x8fd8d70,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_eleGGF_rebinPdf ""
+    (0x8fe5a00,V-) RooRealVar::n_exp_bineleGGF_proc_WW "n_exp_bineleGGF_proc_WW"
+    (0x8fe6ed0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x8fe94b0,V-) RooRealVar::n_exp_bineleGGF_proc_ZHWWlnuqq_M125 "n_exp_bineleGGF_proc_ZHWWlnuqq_M125"
+    (0x8fea1b0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_eleGGF_rebinPdf ""
+    (0x8febb70,V-) RooRealVar::n_exp_bineleGGF_proc_WZ "n_exp_bineleGGF_proc_WZ"
+    (0x8fec8a0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x8fee2f0,V-) RooRealVar::n_exp_bineleGGF_proc_WpHWWlnuqq_M125 "n_exp_bineleGGF_proc_WpHWWlnuqq_M125"
+    (0x8fef020,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_eleGGF_rebinPdf ""
+    (0x8ff1a20,V-) RooRealVar::n_exp_bineleGGF_proc_ZZZ "n_exp_bineleGGF_proc_ZZZ"
+    (0x8ff2750,V-) FastVerticalInterpHistPdf2::shapeBkg_top_eleGGF_rebinPdf ""
+    (0x8ff4110,V-) RooRealVar::n_exp_bineleGGF_proc_top "n_exp_bineleGGF_proc_top"
+    (0x8ff4e40,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_eleGGF_rebinPdf ""
+    (0x8ff6890,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets2j ""
+    (0x9100b60,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_eleGGF_rebinPdf ""
+    (0x90d2870,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets1j ""
+    (0x9102680,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9104130,V-) RooRealVar::n_exp_bineleGGF_proc_WmHtautaulnuqq_M125 "n_exp_bineleGGF_proc_WmHtautaulnuqq_M125"
+    (0x9104eb0,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9106970,V-) RooRealVar::n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125 "n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125"
+    (0x91076f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x91091b0,V-) RooRealVar::n_exp_bineleGGF_proc_WpHtautaulnuqq_M125 "n_exp_bineleGGF_proc_WpHtautaulnuqq_M125"
+    (0x9109f30,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_eleGGF_rebinPdf ""
+    (0x910b960,V-) RooRealVar::n_exp_bineleGGF_proc_WZZ "n_exp_bineleGGF_proc_WZZ"
+    (0x43a34c0,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_bcToE_eleGGF_rebinPdf ""
+    (0x43a4f80,V-) RooRealVar::n_exp_bineleGGF_proc_QCD_bcToE "n_exp_bineleGGF_proc_QCD_bcToE"
+    (0x43a5c50,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_EM_eleGGF_rebinPdf ""
+    (0x43a7680,V-) RooRealVar::n_exp_bineleGGF_proc_QCD_EM "n_exp_bineleGGF_proc_QCD_EM"
+    (0x43a83b0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9118f30,V-) RooRealVar::n_exp_bineleGGF_proc_ZHtautaulnuqq_M125 "n_exp_bineleGGF_proc_ZHtautaulnuqq_M125"
+    (0x9119cb0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_eleGGF_rebinPdf ""
+    (0x911b6e0,V-) RooRealVar::n_exp_bineleGGF_proc_ZZ "n_exp_bineleGGF_proc_ZZ"
+    (0x911c410,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x911dee0,V-) RooRealVar::n_exp_bineleGGF_proc_WmHWWlnuqq_M125 "n_exp_bineleGGF_proc_WmHWWlnuqq_M125"
+    (0x911ec10,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_eleGGF_rebinPdf ""
+    (0x9120650,V-) RooRealVar::n_exp_bineleGGF_proc_WWW "n_exp_bineleGGF_proc_WWW"
+    (0x9121390,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_eleGGF_rebinPdf ""
+    (0x9122dd0,V-) RooRealVar::n_exp_bineleGGF_proc_WWZ "n_exp_bineleGGF_proc_WWZ"
+    (0x9123b00,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets0j_eleGGF_rebinPdf ""
+    (0x9067d30,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets0j ""
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_eleGGF_rebinPdf
+      2)                    shapeBkg_DY_eleGGF_rebinPdf
+      3)                    shapeBkg_WW_eleGGF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_eleGGF_rebinPdf
+      5)                    shapeBkg_WZ_eleGGF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_eleGGF_rebinPdf
+      7)                   shapeBkg_ZZZ_eleGGF_rebinPdf
+      8)                   shapeBkg_top_eleGGF_rebinPdf
+      9)               shapeBkg_Wjets2j_eleGGF_rebinPdf
+     10)               shapeBkg_Wjets1j_eleGGF_rebinPdf
+     11)   shapeBkg_WmHtautaulnuqq_M125_eleGGF_rebinPdf
+     12)  shapeBkg_vbfHtautaulnuqq_M125_eleGGF_rebinPdf
+     13)   shapeBkg_WpHtautaulnuqq_M125_eleGGF_rebinPdf
+     14)                   shapeBkg_WZZ_eleGGF_rebinPdf
+     15)             shapeBkg_QCD_bcToE_eleGGF_rebinPdf
+     16)                shapeBkg_QCD_EM_eleGGF_rebinPdf
+     17)    shapeBkg_ZHtautaulnuqq_M125_eleGGF_rebinPdf
+     18)                    shapeBkg_ZZ_eleGGF_rebinPdf
+     19)       shapeBkg_WmHWWlnuqq_M125_eleGGF_rebinPdf
+     20)                   shapeBkg_WWW_eleGGF_rebinPdf
+     21)                   shapeBkg_WWZ_eleGGF_rebinPdf
+     22)               shapeBkg_Wjets0j_eleGGF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_bineleGGF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_bineleGGF_proc_DY
+      3)                    n_exp_bineleGGF_proc_WW
+      4)        n_exp_bineleGGF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_bineleGGF_proc_WZ
+      6)       n_exp_bineleGGF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_bineleGGF_proc_ZZZ
+      8)                   n_exp_bineleGGF_proc_top
+      9)               n_exp_bineleGGF_proc_Wjets2j
+     10)               n_exp_bineleGGF_proc_Wjets1j
+     11)   n_exp_bineleGGF_proc_WmHtautaulnuqq_M125
+     12)  n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125
+     13)   n_exp_bineleGGF_proc_WpHtautaulnuqq_M125
+     14)                   n_exp_bineleGGF_proc_WZZ
+     15)             n_exp_bineleGGF_proc_QCD_bcToE
+     16)                n_exp_bineleGGF_proc_QCD_EM
+     17)    n_exp_bineleGGF_proc_ZHtautaulnuqq_M125
+     18)                    n_exp_bineleGGF_proc_ZZ
+     19)       n_exp_bineleGGF_proc_WmHWWlnuqq_M125
+     20)                   n_exp_bineleGGF_proc_WWW
+     21)                   n_exp_bineleGGF_proc_WWZ
+     22)               n_exp_bineleGGF_proc_Wjets0j
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleGGF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleGGF (eleGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_bineleGGF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_bineleGGF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[utils::makePlots] Number of events for pdf in eleGGF_CMS_th1x, pdf pdf_bineleGGF_bonly = 121443
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x900dc60
+  Clients: 
+    (0x9068d60,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x900cab0,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x900f0e0,V-) RooRealVar::n_exp_bineleVBF_proc_ggHtautaulnuqq_M125 "n_exp_bineleVBF_proc_ggHtautaulnuqq_M125"
+    (0x900fe90,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_eleVBF_rebinPdf ""
+    (0x9011820,V-) RooRealVar::n_exp_bineleVBF_proc_DY "n_exp_bineleVBF_proc_DY"
+    (0x9012550,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_eleVBF_rebinPdf ""
+    (0x9013f10,V-) RooRealVar::n_exp_bineleVBF_proc_WW "n_exp_bineleVBF_proc_WW"
+    (0x9014c40,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x9016690,V-) RooRealVar::n_exp_bineleVBF_proc_ZHWWlnuqq_M125 "n_exp_bineleVBF_proc_ZHWWlnuqq_M125"
+    (0x90193f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_eleVBF_rebinPdf ""
+    (0x901adb0,V-) RooRealVar::n_exp_bineleVBF_proc_WZ "n_exp_bineleVBF_proc_WZ"
+    (0x901bae0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x901d530,V-) RooRealVar::n_exp_bineleVBF_proc_WpHWWlnuqq_M125 "n_exp_bineleVBF_proc_WpHWWlnuqq_M125"
+    (0x901e260,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_eleVBF_rebinPdf ""
+    (0x901fc20,V-) RooRealVar::n_exp_bineleVBF_proc_ZZZ "n_exp_bineleVBF_proc_ZZZ"
+    (0x9020950,V-) FastVerticalInterpHistPdf2::shapeBkg_top_eleVBF_rebinPdf ""
+    (0x9022310,V-) RooRealVar::n_exp_bineleVBF_proc_top "n_exp_bineleVBF_proc_top"
+    (0x9023040,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_eleVBF_rebinPdf ""
+    (0x9024a90,V-) ProcessNormalization::n_exp_bineleVBF_proc_Wjets2j ""
+    (0x90263e0,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_eleVBF_rebinPdf ""
+    (0x9027e00,V-) ProcessNormalization::n_exp_bineleVBF_proc_Wjets1j ""
+    (0x90d3910,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90d5430,V-) RooRealVar::n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125 "n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125"
+    (0x90d6180,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90d7c70,V-) RooRealVar::n_exp_bineleVBF_proc_WpHtautaulnuqq_M125 "n_exp_bineleVBF_proc_WpHtautaulnuqq_M125"
+    (0x90d89f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_eleVBF_rebinPdf ""
+    (0x907f680,V-) RooRealVar::n_exp_bineleVBF_proc_WZZ "n_exp_bineleVBF_proc_WZZ"
+    (0x90db790,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_bcToE_eleVBF_rebinPdf ""
+    (0x90dd260,V-) RooRealVar::n_exp_bineleVBF_proc_QCD_bcToE "n_exp_bineleVBF_proc_QCD_bcToE"
+    (0x90ddf40,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_EM_eleVBF_rebinPdf ""
+    (0x90df980,V-) RooRealVar::n_exp_bineleVBF_proc_QCD_EM "n_exp_bineleVBF_proc_QCD_EM"
+    (0x90e06b0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90e2180,V-) RooRealVar::n_exp_bineleVBF_proc_ZHtautaulnuqq_M125 "n_exp_bineleVBF_proc_ZHtautaulnuqq_M125"
+    (0x90e2f00,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_eleVBF_rebinPdf ""
+    (0x90e4930,V-) RooRealVar::n_exp_bineleVBF_proc_ZZ "n_exp_bineleVBF_proc_ZZ"
+    (0x90e5660,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x90e7130,V-) RooRealVar::n_exp_bineleVBF_proc_WmHWWlnuqq_M125 "n_exp_bineleVBF_proc_WmHWWlnuqq_M125"
+    (0x90e7e60,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_eleVBF_rebinPdf ""
+    (0x90e98a0,V-) RooRealVar::n_exp_bineleVBF_proc_WWW "n_exp_bineleVBF_proc_WWW"
+    (0x90ea5d0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_eleVBF_rebinPdf ""
+    (0x90ec010,V-) RooRealVar::n_exp_bineleVBF_proc_WWZ "n_exp_bineleVBF_proc_WWZ"
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_eleVBF_rebinPdf
+      2)                    shapeBkg_DY_eleVBF_rebinPdf
+      3)                    shapeBkg_WW_eleVBF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_eleVBF_rebinPdf
+      5)                    shapeBkg_WZ_eleVBF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_eleVBF_rebinPdf
+      7)                   shapeBkg_ZZZ_eleVBF_rebinPdf
+      8)                   shapeBkg_top_eleVBF_rebinPdf
+      9)               shapeBkg_Wjets2j_eleVBF_rebinPdf
+     10)               shapeBkg_Wjets1j_eleVBF_rebinPdf
+     11)  shapeBkg_vbfHtautaulnuqq_M125_eleVBF_rebinPdf
+     12)   shapeBkg_WpHtautaulnuqq_M125_eleVBF_rebinPdf
+     13)                   shapeBkg_WZZ_eleVBF_rebinPdf
+     14)             shapeBkg_QCD_bcToE_eleVBF_rebinPdf
+     15)                shapeBkg_QCD_EM_eleVBF_rebinPdf
+     16)    shapeBkg_ZHtautaulnuqq_M125_eleVBF_rebinPdf
+     17)                    shapeBkg_ZZ_eleVBF_rebinPdf
+     18)       shapeBkg_WmHWWlnuqq_M125_eleVBF_rebinPdf
+     19)                   shapeBkg_WWW_eleVBF_rebinPdf
+     20)                   shapeBkg_WWZ_eleVBF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_bineleVBF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_bineleVBF_proc_DY
+      3)                    n_exp_bineleVBF_proc_WW
+      4)        n_exp_bineleVBF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_bineleVBF_proc_WZ
+      6)       n_exp_bineleVBF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_bineleVBF_proc_ZZZ
+      8)                   n_exp_bineleVBF_proc_top
+      9)               n_exp_bineleVBF_proc_Wjets2j
+     10)               n_exp_bineleVBF_proc_Wjets1j
+     11)  n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125
+     12)   n_exp_bineleVBF_proc_WpHtautaulnuqq_M125
+     13)                   n_exp_bineleVBF_proc_WZZ
+     14)             n_exp_bineleVBF_proc_QCD_bcToE
+     15)                n_exp_bineleVBF_proc_QCD_EM
+     16)    n_exp_bineleVBF_proc_ZHtautaulnuqq_M125
+     17)                    n_exp_bineleVBF_proc_ZZ
+     18)       n_exp_bineleVBF_proc_WmHWWlnuqq_M125
+     19)                   n_exp_bineleVBF_proc_WWW
+     20)                   n_exp_bineleVBF_proc_WWZ
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleVBF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleVBF (eleVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_bineleVBF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_bineleVBF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[utils::makePlots] Number of events for pdf in eleVBF_CMS_th1x, pdf pdf_bineleVBF_bonly = 2454.71
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x902e820
+  Clients: 
+    (0x9068d60,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x902d500,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x902fca0,V-) RooRealVar::n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 "n_exp_binmuGGF_proc_ggHtautaulnuqq_M125"
+    (0x9030a50,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_muGGF_rebinPdf ""
+    (0x90323e0,V-) RooRealVar::n_exp_binmuGGF_proc_DY "n_exp_binmuGGF_proc_DY"
+    (0x9033110,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_muGGF_rebinPdf ""
+    (0x9034ad0,V-) RooRealVar::n_exp_binmuGGF_proc_WW "n_exp_binmuGGF_proc_WW"
+    (0x9035800,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x9037250,V-) RooRealVar::n_exp_binmuGGF_proc_ZHWWlnuqq_M125 "n_exp_binmuGGF_proc_ZHWWlnuqq_M125"
+    (0x9037f80,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_muGGF_rebinPdf ""
+    (0x9039940,V-) RooRealVar::n_exp_binmuGGF_proc_WZ "n_exp_binmuGGF_proc_WZ"
+    (0x903a670,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x903c0c0,V-) RooRealVar::n_exp_binmuGGF_proc_WpHWWlnuqq_M125 "n_exp_binmuGGF_proc_WpHWWlnuqq_M125"
+    (0x903cdf0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_muGGF_rebinPdf ""
+    (0x903e7b0,V-) RooRealVar::n_exp_binmuGGF_proc_ZZZ "n_exp_binmuGGF_proc_ZZZ"
+    (0x903f4e0,V-) FastVerticalInterpHistPdf2::shapeBkg_top_muGGF_rebinPdf ""
+    (0x9044ee0,V-) RooRealVar::n_exp_binmuGGF_proc_top "n_exp_binmuGGF_proc_top"
+    (0x9045c10,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_muGGF_rebinPdf ""
+    (0x90475d0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets2j ""
+    (0x9048200,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_muGGF_rebinPdf ""
+    (0x9049bf0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets1j ""
+    (0x904a820,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x904c2a0,V-) RooRealVar::n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 "n_exp_binmuGGF_proc_WmHtautaulnuqq_M125"
+    (0x904d000,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x904ea20,V-) RooRealVar::n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 "n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125"
+    (0x904f780,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_MU_muGGF_rebinPdf ""
+    (0x9051110,V-) RooRealVar::n_exp_binmuGGF_proc_QCD_MU "n_exp_binmuGGF_proc_QCD_MU"
+    (0x9051e40,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x9053890,V-) RooRealVar::n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 "n_exp_binmuGGF_proc_WpHtautaulnuqq_M125"
+    (0x90545f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_muGGF_rebinPdf ""
+    (0x9055f80,V-) RooRealVar::n_exp_binmuGGF_proc_WZZ "n_exp_binmuGGF_proc_WZZ"
+    (0x9056cb0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x9058700,V-) RooRealVar::n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 "n_exp_binmuGGF_proc_ZHtautaulnuqq_M125"
+    (0x9059460,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_muGGF_rebinPdf ""
+    (0x905adf0,V-) RooRealVar::n_exp_binmuGGF_proc_ZZ "n_exp_binmuGGF_proc_ZZ"
+    (0x905bb20,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x905d570,V-) RooRealVar::n_exp_binmuGGF_proc_WmHWWlnuqq_M125 "n_exp_binmuGGF_proc_WmHWWlnuqq_M125"
+    (0x905e2a0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_muGGF_rebinPdf ""
+    (0x905fc60,V-) RooRealVar::n_exp_binmuGGF_proc_WWW "n_exp_binmuGGF_proc_WWW"
+    (0x9060990,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_muGGF_rebinPdf ""
+    (0x9062350,V-) RooRealVar::n_exp_binmuGGF_proc_WWZ "n_exp_binmuGGF_proc_WWZ"
+    (0x9063080,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets0j_muGGF_rebinPdf ""
+    (0x9064a40,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets0j ""
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf
+      2)                    shapeBkg_DY_muGGF_rebinPdf
+      3)                    shapeBkg_WW_muGGF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf
+      5)                    shapeBkg_WZ_muGGF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf
+      7)                   shapeBkg_ZZZ_muGGF_rebinPdf
+      8)                   shapeBkg_top_muGGF_rebinPdf
+      9)               shapeBkg_Wjets2j_muGGF_rebinPdf
+     10)               shapeBkg_Wjets1j_muGGF_rebinPdf
+     11)   shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf
+     12)  shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf
+     13)                shapeBkg_QCD_MU_muGGF_rebinPdf
+     14)   shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf
+     15)                   shapeBkg_WZZ_muGGF_rebinPdf
+     16)    shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf
+     17)                    shapeBkg_ZZ_muGGF_rebinPdf
+     18)       shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf
+     19)                   shapeBkg_WWW_muGGF_rebinPdf
+     20)                   shapeBkg_WWZ_muGGF_rebinPdf
+     21)               shapeBkg_Wjets0j_muGGF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_binmuGGF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_binmuGGF_proc_DY
+      3)                    n_exp_binmuGGF_proc_WW
+      4)        n_exp_binmuGGF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_binmuGGF_proc_WZ
+      6)       n_exp_binmuGGF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_binmuGGF_proc_ZZZ
+      8)                   n_exp_binmuGGF_proc_top
+      9)               n_exp_binmuGGF_proc_Wjets2j
+     10)               n_exp_binmuGGF_proc_Wjets1j
+     11)   n_exp_binmuGGF_proc_WmHtautaulnuqq_M125
+     12)  n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125
+     13)                n_exp_binmuGGF_proc_QCD_MU
+     14)   n_exp_binmuGGF_proc_WpHtautaulnuqq_M125
+     15)                   n_exp_binmuGGF_proc_WZZ
+     16)    n_exp_binmuGGF_proc_ZHtautaulnuqq_M125
+     17)                    n_exp_binmuGGF_proc_ZZ
+     18)       n_exp_binmuGGF_proc_WmHWWlnuqq_M125
+     19)                   n_exp_binmuGGF_proc_WWW
+     20)                   n_exp_binmuGGF_proc_WWZ
+     21)               n_exp_binmuGGF_proc_Wjets0j
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_binmuGGF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_binmuGGF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF_bonly = 180785
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x90786e0
+  Clients: 
+    (0x9068d60,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x9079b30,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x909ced0,V-) RooRealVar::n_exp_binmuVBF_proc_ggHtautaulnuqq_M125 "n_exp_binmuVBF_proc_ggHtautaulnuqq_M125"
+    (0x907c2a0,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_muVBF_rebinPdf ""
+    (0x90a5cd0,V-) RooRealVar::n_exp_binmuVBF_proc_DY "n_exp_binmuVBF_proc_DY"
+    (0x907dc90,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_muVBF_rebinPdf ""
+    (0x90a69a0,V-) RooRealVar::n_exp_binmuVBF_proc_WW "n_exp_binmuVBF_proc_WW"
+    (0x907fab0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x90a76a0,V-) RooRealVar::n_exp_binmuVBF_proc_ZHWWlnuqq_M125 "n_exp_binmuVBF_proc_ZHWWlnuqq_M125"
+    (0x9081420,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_muVBF_rebinPdf ""
+    (0x90a83f0,V-) RooRealVar::n_exp_binmuVBF_proc_WZ "n_exp_binmuVBF_proc_WZ"
+    (0x9082dc0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x90a90f0,V-) RooRealVar::n_exp_binmuVBF_proc_WpHWWlnuqq_M125 "n_exp_binmuVBF_proc_WpHWWlnuqq_M125"
+    (0x9084840,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_muVBF_rebinPdf ""
+    (0x90a9e40,V-) RooRealVar::n_exp_binmuVBF_proc_ZZZ "n_exp_binmuVBF_proc_ZZZ"
+    (0x90861e0,V-) FastVerticalInterpHistPdf2::shapeBkg_top_muVBF_rebinPdf ""
+    (0x90aab40,V-) RooRealVar::n_exp_binmuVBF_proc_top "n_exp_binmuVBF_proc_top"
+    (0x9087bd0,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_muVBF_rebinPdf ""
+    (0x90ab840,V-) ProcessNormalization::n_exp_binmuVBF_proc_Wjets2j ""
+    (0x908b090,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_muVBF_rebinPdf ""
+    (0x90ad0f0,V-) ProcessNormalization::n_exp_binmuVBF_proc_Wjets1j ""
+    (0x908ca30,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x90add20,V-) RooRealVar::n_exp_binmuVBF_proc_WmHtautaulnuqq_M125 "n_exp_binmuVBF_proc_WmHtautaulnuqq_M125"
+    (0x908e4b0,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x90aead0,V-) RooRealVar::n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125 "n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125"
+    (0x908fee0,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_MU_muVBF_rebinPdf ""
+    (0x90af820,V-) RooRealVar::n_exp_binmuVBF_proc_QCD_MU "n_exp_binmuVBF_proc_QCD_MU"
+    (0x9091880,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x90b04f0,V-) RooRealVar::n_exp_binmuVBF_proc_WpHtautaulnuqq_M125 "n_exp_binmuVBF_proc_WpHtautaulnuqq_M125"
+    (0x9093300,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_muVBF_rebinPdf ""
+    (0x90b1270,V-) RooRealVar::n_exp_binmuVBF_proc_WZZ "n_exp_binmuVBF_proc_WZZ"
+    (0x9094ca0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x90b1f40,V-) RooRealVar::n_exp_binmuVBF_proc_ZHtautaulnuqq_M125 "n_exp_binmuVBF_proc_ZHtautaulnuqq_M125"
+    (0x9096720,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_muVBF_rebinPdf ""
+    (0x90b2cc0,V-) RooRealVar::n_exp_binmuVBF_proc_ZZ "n_exp_binmuVBF_proc_ZZ"
+    (0x90980c0,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x90b3990,V-) RooRealVar::n_exp_binmuVBF_proc_WmHWWlnuqq_M125 "n_exp_binmuVBF_proc_WmHWWlnuqq_M125"
+    (0x9099b40,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_muVBF_rebinPdf ""
+    (0x90b46e0,V-) RooRealVar::n_exp_binmuVBF_proc_WWW "n_exp_binmuVBF_proc_WWW"
+    (0x909b4e0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_muVBF_rebinPdf ""
+    (0x90b53e0,V-) RooRealVar::n_exp_binmuVBF_proc_WWZ "n_exp_binmuVBF_proc_WWZ"
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_muVBF_rebinPdf
+      2)                    shapeBkg_DY_muVBF_rebinPdf
+      3)                    shapeBkg_WW_muVBF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_muVBF_rebinPdf
+      5)                    shapeBkg_WZ_muVBF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_muVBF_rebinPdf
+      7)                   shapeBkg_ZZZ_muVBF_rebinPdf
+      8)                   shapeBkg_top_muVBF_rebinPdf
+      9)               shapeBkg_Wjets2j_muVBF_rebinPdf
+     10)               shapeBkg_Wjets1j_muVBF_rebinPdf
+     11)   shapeBkg_WmHtautaulnuqq_M125_muVBF_rebinPdf
+     12)  shapeBkg_vbfHtautaulnuqq_M125_muVBF_rebinPdf
+     13)                shapeBkg_QCD_MU_muVBF_rebinPdf
+     14)   shapeBkg_WpHtautaulnuqq_M125_muVBF_rebinPdf
+     15)                   shapeBkg_WZZ_muVBF_rebinPdf
+     16)    shapeBkg_ZHtautaulnuqq_M125_muVBF_rebinPdf
+     17)                    shapeBkg_ZZ_muVBF_rebinPdf
+     18)       shapeBkg_WmHWWlnuqq_M125_muVBF_rebinPdf
+     19)                   shapeBkg_WWW_muVBF_rebinPdf
+     20)                   shapeBkg_WWZ_muVBF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_binmuVBF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_binmuVBF_proc_DY
+      3)                    n_exp_binmuVBF_proc_WW
+      4)        n_exp_binmuVBF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_binmuVBF_proc_WZ
+      6)       n_exp_binmuVBF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_binmuVBF_proc_ZZZ
+      8)                   n_exp_binmuVBF_proc_top
+      9)               n_exp_binmuVBF_proc_Wjets2j
+     10)               n_exp_binmuVBF_proc_Wjets1j
+     11)   n_exp_binmuVBF_proc_WmHtautaulnuqq_M125
+     12)  n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125
+     13)                n_exp_binmuVBF_proc_QCD_MU
+     14)   n_exp_binmuVBF_proc_WpHtautaulnuqq_M125
+     15)                   n_exp_binmuVBF_proc_WZZ
+     16)    n_exp_binmuVBF_proc_ZHtautaulnuqq_M125
+     17)                    n_exp_binmuVBF_proc_ZZ
+     18)       n_exp_binmuVBF_proc_WmHWWlnuqq_M125
+     19)                   n_exp_binmuVBF_proc_WWW
+     20)                   n_exp_binmuVBF_proc_WWZ
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuVBF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muVBF (muVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_binmuVBF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[#0] ERROR:Plotting -- RooAbsPdf::plotOn(pdf_binmuVBF_bonly) ERROR: component selection expression 'shapeSig*' does not select any components of p.d.f.
+[utils::makePlots] Number of events for pdf in muVBF_CMS_th1x, pdf pdf_binmuVBF_bonly = 3847.28
+Error in <TList::Clear>: A list is accessing an object (0x9132e8c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x9133134) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x91333dc) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x9133684) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./eleGGF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./eleVBF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./muVBF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_b.png has been created
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [MAIN_MEASUREMENT,SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8e15fe0
+  Clients: 
+    (0x90b60e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x6edf4d0,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x8eb4be0,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_eleGGF_rebinPdf ""
+    (0x8fd8d70,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_eleGGF_rebinPdf ""
+    (0x8fe6ed0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x8fea1b0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_eleGGF_rebinPdf ""
+    (0x8fec8a0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x8fef020,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_eleGGF_rebinPdf ""
+    (0x8ff2750,V-) FastVerticalInterpHistPdf2::shapeBkg_top_eleGGF_rebinPdf ""
+    (0x8ff4e40,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_eleGGF_rebinPdf ""
+    (0x9126350,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets2j_slope_eleGGF_rebinPdf ""
+    (0x9100b60,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_eleGGF_rebinPdf ""
+    (0x9102680,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9104eb0,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x91076f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9109f30,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_eleGGF_rebinPdf ""
+    (0x43a34c0,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_bcToE_eleGGF_rebinPdf ""
+    (0x43a5c50,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_EM_eleGGF_rebinPdf ""
+    (0x43a83b0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_eleGGF_rebinPdf ""
+    (0x9119cb0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_eleGGF_rebinPdf ""
+    (0x911c410,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_eleGGF_rebinPdf ""
+    (0x911ec10,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_eleGGF_rebinPdf ""
+    (0x9121390,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_eleGGF_rebinPdf ""
+    (0x9123b00,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets0j_eleGGF_rebinPdf ""
+    (0x9127ea0,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets1j_slope_eleGGF_rebinPdf ""
+    (0x8eb7340,V-) RooRealVar::n_exp_bineleGGF_proc_ggHtautaulnuqq_M125 "n_exp_bineleGGF_proc_ggHtautaulnuqq_M125"
+    (0x8fd8070,V-) RooRealVar::n_exp_bineleGGF_proc_DY "n_exp_bineleGGF_proc_DY"
+    (0x8fe5a00,V-) RooRealVar::n_exp_bineleGGF_proc_WW "n_exp_bineleGGF_proc_WW"
+    (0x8fe94b0,V-) RooRealVar::n_exp_bineleGGF_proc_ZHWWlnuqq_M125 "n_exp_bineleGGF_proc_ZHWWlnuqq_M125"
+    (0x8febb70,V-) RooRealVar::n_exp_bineleGGF_proc_WZ "n_exp_bineleGGF_proc_WZ"
+    (0x8fee2f0,V-) RooRealVar::n_exp_bineleGGF_proc_WpHWWlnuqq_M125 "n_exp_bineleGGF_proc_WpHWWlnuqq_M125"
+    (0x8ff1a20,V-) RooRealVar::n_exp_bineleGGF_proc_ZZZ "n_exp_bineleGGF_proc_ZZZ"
+    (0x8ff4110,V-) RooRealVar::n_exp_bineleGGF_proc_top "n_exp_bineleGGF_proc_top"
+    (0x8ff6890,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets2j ""
+    (0x9004cb0,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets2j_slope ""
+    (0x90d2870,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets1j ""
+    (0x9104130,V-) RooRealVar::n_exp_bineleGGF_proc_WmHtautaulnuqq_M125 "n_exp_bineleGGF_proc_WmHtautaulnuqq_M125"
+    (0x9106970,V-) RooRealVar::n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125 "n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125"
+    (0x91091b0,V-) RooRealVar::n_exp_bineleGGF_proc_WpHtautaulnuqq_M125 "n_exp_bineleGGF_proc_WpHtautaulnuqq_M125"
+    (0x910b960,V-) RooRealVar::n_exp_bineleGGF_proc_WZZ "n_exp_bineleGGF_proc_WZZ"
+    (0x43a4f80,V-) RooRealVar::n_exp_bineleGGF_proc_QCD_bcToE "n_exp_bineleGGF_proc_QCD_bcToE"
+    (0x43a7680,V-) RooRealVar::n_exp_bineleGGF_proc_QCD_EM "n_exp_bineleGGF_proc_QCD_EM"
+    (0x9118f30,V-) RooRealVar::n_exp_bineleGGF_proc_ZHtautaulnuqq_M125 "n_exp_bineleGGF_proc_ZHtautaulnuqq_M125"
+    (0x911b6e0,V-) RooRealVar::n_exp_bineleGGF_proc_ZZ "n_exp_bineleGGF_proc_ZZ"
+    (0x911dee0,V-) RooRealVar::n_exp_bineleGGF_proc_WmHWWlnuqq_M125 "n_exp_bineleGGF_proc_WmHWWlnuqq_M125"
+    (0x9120650,V-) RooRealVar::n_exp_bineleGGF_proc_WWW "n_exp_bineleGGF_proc_WWW"
+    (0x9122dd0,V-) RooRealVar::n_exp_bineleGGF_proc_WWZ "n_exp_bineleGGF_proc_WWZ"
+    (0x9067d30,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets0j ""
+    (0x902aaa0,V-) ProcessNormalization::n_exp_bineleGGF_proc_Wjets1j_slope ""
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_eleGGF_rebinPdf
+      2)                    shapeBkg_DY_eleGGF_rebinPdf
+      3)                    shapeBkg_WW_eleGGF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_eleGGF_rebinPdf
+      5)                    shapeBkg_WZ_eleGGF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_eleGGF_rebinPdf
+      7)                   shapeBkg_ZZZ_eleGGF_rebinPdf
+      8)                   shapeBkg_top_eleGGF_rebinPdf
+      9)               shapeBkg_Wjets2j_eleGGF_rebinPdf
+     10)         shapeSig_Wjets2j_slope_eleGGF_rebinPdf
+     11)               shapeBkg_Wjets1j_eleGGF_rebinPdf
+     12)   shapeBkg_WmHtautaulnuqq_M125_eleGGF_rebinPdf
+     13)  shapeBkg_vbfHtautaulnuqq_M125_eleGGF_rebinPdf
+     14)   shapeBkg_WpHtautaulnuqq_M125_eleGGF_rebinPdf
+     15)                   shapeBkg_WZZ_eleGGF_rebinPdf
+     16)             shapeBkg_QCD_bcToE_eleGGF_rebinPdf
+     17)                shapeBkg_QCD_EM_eleGGF_rebinPdf
+     18)    shapeBkg_ZHtautaulnuqq_M125_eleGGF_rebinPdf
+     19)                    shapeBkg_ZZ_eleGGF_rebinPdf
+     20)       shapeBkg_WmHWWlnuqq_M125_eleGGF_rebinPdf
+     21)                   shapeBkg_WWW_eleGGF_rebinPdf
+     22)                   shapeBkg_WWZ_eleGGF_rebinPdf
+     23)               shapeBkg_Wjets0j_eleGGF_rebinPdf
+     24)         shapeSig_Wjets1j_slope_eleGGF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_bineleGGF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_bineleGGF_proc_DY
+      3)                    n_exp_bineleGGF_proc_WW
+      4)        n_exp_bineleGGF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_bineleGGF_proc_WZ
+      6)       n_exp_bineleGGF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_bineleGGF_proc_ZZZ
+      8)                   n_exp_bineleGGF_proc_top
+      9)               n_exp_bineleGGF_proc_Wjets2j
+     10)         n_exp_bineleGGF_proc_Wjets2j_slope
+     11)               n_exp_bineleGGF_proc_Wjets1j
+     12)   n_exp_bineleGGF_proc_WmHtautaulnuqq_M125
+     13)  n_exp_bineleGGF_proc_vbfHtautaulnuqq_M125
+     14)   n_exp_bineleGGF_proc_WpHtautaulnuqq_M125
+     15)                   n_exp_bineleGGF_proc_WZZ
+     16)             n_exp_bineleGGF_proc_QCD_bcToE
+     17)                n_exp_bineleGGF_proc_QCD_EM
+     18)    n_exp_bineleGGF_proc_ZHtautaulnuqq_M125
+     19)                    n_exp_bineleGGF_proc_ZZ
+     20)       n_exp_bineleGGF_proc_WmHWWlnuqq_M125
+     21)                   n_exp_bineleGGF_proc_WWW
+     22)                   n_exp_bineleGGF_proc_WWZ
+     23)               n_exp_bineleGGF_proc_Wjets0j
+     24)         n_exp_bineleGGF_proc_Wjets1j_slope
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleGGF (eleGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleGGF_CMS_th1x, pdf pdf_bineleGGF = 121716
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [MAIN_MEASUREMENT,SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x900bfc0
+  Clients: 
+    (0x90b60e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x900cab0,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x900fe90,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_eleVBF_rebinPdf ""
+    (0x9012550,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_eleVBF_rebinPdf ""
+    (0x9014c40,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x90193f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_eleVBF_rebinPdf ""
+    (0x901bae0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x901e260,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_eleVBF_rebinPdf ""
+    (0x9020950,V-) FastVerticalInterpHistPdf2::shapeBkg_top_eleVBF_rebinPdf ""
+    (0x9023040,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_eleVBF_rebinPdf ""
+    (0x90edb60,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets2j_slope_eleVBF_rebinPdf ""
+    (0x90263e0,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_eleVBF_rebinPdf ""
+    (0x90d3910,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90d6180,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90d89f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_eleVBF_rebinPdf ""
+    (0x90db790,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_bcToE_eleVBF_rebinPdf ""
+    (0x90ddf40,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_EM_eleVBF_rebinPdf ""
+    (0x90e06b0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_eleVBF_rebinPdf ""
+    (0x90e2f00,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_eleVBF_rebinPdf ""
+    (0x90e5660,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_eleVBF_rebinPdf ""
+    (0x90e7e60,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_eleVBF_rebinPdf ""
+    (0x90ea5d0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_eleVBF_rebinPdf ""
+    (0x900f0e0,V-) RooRealVar::n_exp_bineleVBF_proc_ggHtautaulnuqq_M125 "n_exp_bineleVBF_proc_ggHtautaulnuqq_M125"
+    (0x9011820,V-) RooRealVar::n_exp_bineleVBF_proc_DY "n_exp_bineleVBF_proc_DY"
+    (0x9013f10,V-) RooRealVar::n_exp_bineleVBF_proc_WW "n_exp_bineleVBF_proc_WW"
+    (0x9016690,V-) RooRealVar::n_exp_bineleVBF_proc_ZHWWlnuqq_M125 "n_exp_bineleVBF_proc_ZHWWlnuqq_M125"
+    (0x901adb0,V-) RooRealVar::n_exp_bineleVBF_proc_WZ "n_exp_bineleVBF_proc_WZ"
+    (0x901d530,V-) RooRealVar::n_exp_bineleVBF_proc_WpHWWlnuqq_M125 "n_exp_bineleVBF_proc_WpHWWlnuqq_M125"
+    (0x901fc20,V-) RooRealVar::n_exp_bineleVBF_proc_ZZZ "n_exp_bineleVBF_proc_ZZZ"
+    (0x9022310,V-) RooRealVar::n_exp_bineleVBF_proc_top "n_exp_bineleVBF_proc_top"
+    (0x9024a90,V-) ProcessNormalization::n_exp_bineleVBF_proc_Wjets2j ""
+    (0x8ea7590,V-) ProcessNormalization::n_exp_bineleVBF_proc_Wjets2j_slope ""
+    (0x9027e00,V-) ProcessNormalization::n_exp_bineleVBF_proc_Wjets1j ""
+    (0x90d5430,V-) RooRealVar::n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125 "n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125"
+    (0x90d7c70,V-) RooRealVar::n_exp_bineleVBF_proc_WpHtautaulnuqq_M125 "n_exp_bineleVBF_proc_WpHtautaulnuqq_M125"
+    (0x907f680,V-) RooRealVar::n_exp_bineleVBF_proc_WZZ "n_exp_bineleVBF_proc_WZZ"
+    (0x90dd260,V-) RooRealVar::n_exp_bineleVBF_proc_QCD_bcToE "n_exp_bineleVBF_proc_QCD_bcToE"
+    (0x90df980,V-) RooRealVar::n_exp_bineleVBF_proc_QCD_EM "n_exp_bineleVBF_proc_QCD_EM"
+    (0x90e2180,V-) RooRealVar::n_exp_bineleVBF_proc_ZHtautaulnuqq_M125 "n_exp_bineleVBF_proc_ZHtautaulnuqq_M125"
+    (0x90e4930,V-) RooRealVar::n_exp_bineleVBF_proc_ZZ "n_exp_bineleVBF_proc_ZZ"
+    (0x90e7130,V-) RooRealVar::n_exp_bineleVBF_proc_WmHWWlnuqq_M125 "n_exp_bineleVBF_proc_WmHWWlnuqq_M125"
+    (0x90e98a0,V-) RooRealVar::n_exp_bineleVBF_proc_WWW "n_exp_bineleVBF_proc_WWW"
+    (0x90ec010,V-) RooRealVar::n_exp_bineleVBF_proc_WWZ "n_exp_bineleVBF_proc_WWZ"
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_eleVBF_rebinPdf
+      2)                    shapeBkg_DY_eleVBF_rebinPdf
+      3)                    shapeBkg_WW_eleVBF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_eleVBF_rebinPdf
+      5)                    shapeBkg_WZ_eleVBF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_eleVBF_rebinPdf
+      7)                   shapeBkg_ZZZ_eleVBF_rebinPdf
+      8)                   shapeBkg_top_eleVBF_rebinPdf
+      9)               shapeBkg_Wjets2j_eleVBF_rebinPdf
+     10)         shapeSig_Wjets2j_slope_eleVBF_rebinPdf
+     11)               shapeBkg_Wjets1j_eleVBF_rebinPdf
+     12)  shapeBkg_vbfHtautaulnuqq_M125_eleVBF_rebinPdf
+     13)   shapeBkg_WpHtautaulnuqq_M125_eleVBF_rebinPdf
+     14)                   shapeBkg_WZZ_eleVBF_rebinPdf
+     15)             shapeBkg_QCD_bcToE_eleVBF_rebinPdf
+     16)                shapeBkg_QCD_EM_eleVBF_rebinPdf
+     17)    shapeBkg_ZHtautaulnuqq_M125_eleVBF_rebinPdf
+     18)                    shapeBkg_ZZ_eleVBF_rebinPdf
+     19)       shapeBkg_WmHWWlnuqq_M125_eleVBF_rebinPdf
+     20)                   shapeBkg_WWW_eleVBF_rebinPdf
+     21)                   shapeBkg_WWZ_eleVBF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_bineleVBF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_bineleVBF_proc_DY
+      3)                    n_exp_bineleVBF_proc_WW
+      4)        n_exp_bineleVBF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_bineleVBF_proc_WZ
+      6)       n_exp_bineleVBF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_bineleVBF_proc_ZZZ
+      8)                   n_exp_bineleVBF_proc_top
+      9)               n_exp_bineleVBF_proc_Wjets2j
+     10)         n_exp_bineleVBF_proc_Wjets2j_slope
+     11)               n_exp_bineleVBF_proc_Wjets1j
+     12)  n_exp_bineleVBF_proc_vbfHtautaulnuqq_M125
+     13)   n_exp_bineleVBF_proc_WpHtautaulnuqq_M125
+     14)                   n_exp_bineleVBF_proc_WZZ
+     15)             n_exp_bineleVBF_proc_QCD_bcToE
+     16)                n_exp_bineleVBF_proc_QCD_EM
+     17)    n_exp_bineleVBF_proc_ZHtautaulnuqq_M125
+     18)                    n_exp_bineleVBF_proc_ZZ
+     19)       n_exp_bineleVBF_proc_WmHWWlnuqq_M125
+     20)                   n_exp_bineleVBF_proc_WWW
+     21)                   n_exp_bineleVBF_proc_WWZ
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleVBF (eleVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleVBF_CMS_th1x, pdf pdf_bineleVBF = 2460.73
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [MAIN_MEASUREMENT,SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x902c0b0
+  Clients: 
+    (0x90b60e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x902d500,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x9030a50,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_muGGF_rebinPdf ""
+    (0x9033110,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_muGGF_rebinPdf ""
+    (0x9035800,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x9037f80,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_muGGF_rebinPdf ""
+    (0x903a670,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x903cdf0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_muGGF_rebinPdf ""
+    (0x903f4e0,V-) FastVerticalInterpHistPdf2::shapeBkg_top_muGGF_rebinPdf ""
+    (0x9045c10,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_muGGF_rebinPdf ""
+    (0x90cd6d0,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets2j_slope_muGGF_rebinPdf ""
+    (0x9048200,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_muGGF_rebinPdf ""
+    (0x904a820,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x904d000,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x904f780,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_MU_muGGF_rebinPdf ""
+    (0x9051e40,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x90545f0,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_muGGF_rebinPdf ""
+    (0x9056cb0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf ""
+    (0x9059460,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_muGGF_rebinPdf ""
+    (0x905bb20,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf ""
+    (0x905e2a0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_muGGF_rebinPdf ""
+    (0x9060990,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_muGGF_rebinPdf ""
+    (0x9063080,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets0j_muGGF_rebinPdf ""
+    (0x90cf150,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets1j_slope_muGGF_rebinPdf ""
+    (0x902fca0,V-) RooRealVar::n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 "n_exp_binmuGGF_proc_ggHtautaulnuqq_M125"
+    (0x90323e0,V-) RooRealVar::n_exp_binmuGGF_proc_DY "n_exp_binmuGGF_proc_DY"
+    (0x9034ad0,V-) RooRealVar::n_exp_binmuGGF_proc_WW "n_exp_binmuGGF_proc_WW"
+    (0x9037250,V-) RooRealVar::n_exp_binmuGGF_proc_ZHWWlnuqq_M125 "n_exp_binmuGGF_proc_ZHWWlnuqq_M125"
+    (0x9039940,V-) RooRealVar::n_exp_binmuGGF_proc_WZ "n_exp_binmuGGF_proc_WZ"
+    (0x903c0c0,V-) RooRealVar::n_exp_binmuGGF_proc_WpHWWlnuqq_M125 "n_exp_binmuGGF_proc_WpHWWlnuqq_M125"
+    (0x903e7b0,V-) RooRealVar::n_exp_binmuGGF_proc_ZZZ "n_exp_binmuGGF_proc_ZZZ"
+    (0x9044ee0,V-) RooRealVar::n_exp_binmuGGF_proc_top "n_exp_binmuGGF_proc_top"
+    (0x90475d0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets2j ""
+    (0x90d0bd0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets2j_slope ""
+    (0x9049bf0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets1j ""
+    (0x904c2a0,V-) RooRealVar::n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 "n_exp_binmuGGF_proc_WmHtautaulnuqq_M125"
+    (0x904ea20,V-) RooRealVar::n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 "n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125"
+    (0x9051110,V-) RooRealVar::n_exp_binmuGGF_proc_QCD_MU "n_exp_binmuGGF_proc_QCD_MU"
+    (0x9053890,V-) RooRealVar::n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 "n_exp_binmuGGF_proc_WpHtautaulnuqq_M125"
+    (0x9055f80,V-) RooRealVar::n_exp_binmuGGF_proc_WZZ "n_exp_binmuGGF_proc_WZZ"
+    (0x9058700,V-) RooRealVar::n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 "n_exp_binmuGGF_proc_ZHtautaulnuqq_M125"
+    (0x905adf0,V-) RooRealVar::n_exp_binmuGGF_proc_ZZ "n_exp_binmuGGF_proc_ZZ"
+    (0x905d570,V-) RooRealVar::n_exp_binmuGGF_proc_WmHWWlnuqq_M125 "n_exp_binmuGGF_proc_WmHWWlnuqq_M125"
+    (0x905fc60,V-) RooRealVar::n_exp_binmuGGF_proc_WWW "n_exp_binmuGGF_proc_WWW"
+    (0x9062350,V-) RooRealVar::n_exp_binmuGGF_proc_WWZ "n_exp_binmuGGF_proc_WWZ"
+    (0x9064a40,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets0j ""
+    (0x902b6f0,V-) ProcessNormalization::n_exp_binmuGGF_proc_Wjets1j_slope ""
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf
+      2)                    shapeBkg_DY_muGGF_rebinPdf
+      3)                    shapeBkg_WW_muGGF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf
+      5)                    shapeBkg_WZ_muGGF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf
+      7)                   shapeBkg_ZZZ_muGGF_rebinPdf
+      8)                   shapeBkg_top_muGGF_rebinPdf
+      9)               shapeBkg_Wjets2j_muGGF_rebinPdf
+     10)         shapeSig_Wjets2j_slope_muGGF_rebinPdf
+     11)               shapeBkg_Wjets1j_muGGF_rebinPdf
+     12)   shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf
+     13)  shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf
+     14)                shapeBkg_QCD_MU_muGGF_rebinPdf
+     15)   shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf
+     16)                   shapeBkg_WZZ_muGGF_rebinPdf
+     17)    shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf
+     18)                    shapeBkg_ZZ_muGGF_rebinPdf
+     19)       shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf
+     20)                   shapeBkg_WWW_muGGF_rebinPdf
+     21)                   shapeBkg_WWZ_muGGF_rebinPdf
+     22)               shapeBkg_Wjets0j_muGGF_rebinPdf
+     23)         shapeSig_Wjets1j_slope_muGGF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_binmuGGF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_binmuGGF_proc_DY
+      3)                    n_exp_binmuGGF_proc_WW
+      4)        n_exp_binmuGGF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_binmuGGF_proc_WZ
+      6)       n_exp_binmuGGF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_binmuGGF_proc_ZZZ
+      8)                   n_exp_binmuGGF_proc_top
+      9)               n_exp_binmuGGF_proc_Wjets2j
+     10)         n_exp_binmuGGF_proc_Wjets2j_slope
+     11)               n_exp_binmuGGF_proc_Wjets1j
+     12)   n_exp_binmuGGF_proc_WmHtautaulnuqq_M125
+     13)  n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125
+     14)                n_exp_binmuGGF_proc_QCD_MU
+     15)   n_exp_binmuGGF_proc_WpHtautaulnuqq_M125
+     16)                   n_exp_binmuGGF_proc_WZZ
+     17)    n_exp_binmuGGF_proc_ZHtautaulnuqq_M125
+     18)                    n_exp_binmuGGF_proc_ZZ
+     19)       n_exp_binmuGGF_proc_WmHWWlnuqq_M125
+     20)                   n_exp_binmuGGF_proc_WWW
+     21)                   n_exp_binmuGGF_proc_WWZ
+     22)               n_exp_binmuGGF_proc_Wjets0j
+     23)         n_exp_binmuGGF_proc_Wjets1j_slope
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[#0] WARNING:Plotting -- At observable [x]=1 RooAddPdf::pdf_binmuGGF[ n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 * shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_DY * shapeBkg_DY_muGGF_rebinPdf + n_exp_binmuGGF_proc_WW * shapeBkg_WW_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHWWlnuqq_M125 * shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZ * shapeBkg_WZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHWWlnuqq_M125 * shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZZ * shapeBkg_ZZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_top * shapeBkg_top_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j * shapeBkg_Wjets2j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j_slope * shapeSig_Wjets2j_slope_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j * shapeBkg_Wjets1j_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 * shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 * shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_QCD_MU * shapeBkg_QCD_MU_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 * shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZZ * shapeBkg_WZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 * shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZ * shapeBkg_ZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHWWlnuqq_M125 * shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWW * shapeBkg_WWW_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWZ * shapeBkg_WWZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets0j * shapeBkg_Wjets0j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j_slope * shapeSig_Wjets1j_slope_muGGF_rebinPdf ]
+     p.d.f value is less than zero (-0.000095), forcing value to zero @ !refCoefNorm=(CMS_th1x = 1), !pdfs=(shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf = 0.143619/1,shapeBkg_DY_muGGF_rebinPdf = 0.147836/1,shapeBkg_WW_muGGF_rebinPdf = 0.0734047/1,shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf = 0.0455336/1,shapeBkg_WZ_muGGF_rebinPdf = 0.0799626/1,shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf = 0.0963801/1,shapeBkg_ZZZ_muGGF_rebinPdf = 0.0310893/1,shapeBkg_top_muGGF_rebinPdf = 0.0447994/1,shapeBkg_Wjets2j_muGGF_rebinPdf = 0.0715929/1,shapeSig_Wjets2j_slope_muGGF_rebinPdf = 9.99397e-10/1,shapeBkg_Wjets1j_muGGF_rebinPdf = 0.246751/1,shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf = 0.0510007/1,shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf = 0.0293787/1,shapeBkg_QCD_MU_muGGF_rebinPdf = 0.114021/1,shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf = 0.0369125/1,shapeBkg_WZZ_muGGF_rebinPdf = 0.00744078/1,shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf = 0.0396884/1,shapeBkg_ZZ_muGGF_rebinPdf = 0.0761019/1,shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf = 0.162113/1,shapeBkg_WWW_muGGF_rebinPdf = 0.024614/1,shapeBkg_WWZ_muGGF_rebinPdf = 0.0219218/1,shapeBkg_Wjets0j_muGGF_rebinPdf = 0.51004/1,shapeSig_Wjets1j_slope_muGGF_rebinPdf = 0.123105/1), !coefficients=(n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 4.0821,n_exp_binmuGGF_proc_DY = 3546.77,n_exp_binmuGGF_proc_WW = 1335.01,n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 1.7196,n_exp_binmuGGF_proc_WZ = 362.869,n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 6.9691,n_exp_binmuGGF_proc_ZZZ = 0.0553,n_exp_binmuGGF_proc_top = 19355,n_exp_binmuGGF_proc_Wjets2j = 112849,n_exp_binmuGGF_proc_Wjets2j_slope = 353.17,n_exp_binmuGGF_proc_Wjets1j = 39247,n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.8008,n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.5259,n_exp_binmuGGF_proc_QCD_MU = 3850.76,n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 1.0737,n_exp_binmuGGF_proc_WZZ = 1.1122,n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3323,n_exp_binmuGGF_proc_ZZ = 13.9973,n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 4.0351,n_exp_binmuGGF_proc_WWW = 6.5013,n_exp_binmuGGF_proc_WWZ = 6.5212,n_exp_binmuGGF_proc_Wjets0j = 183.539,n_exp_binmuGGF_proc_Wjets1j_slope = -139.196)
+[#0] WARNING:Plotting -- At observable [x]=0.5 RooAddPdf::pdf_binmuGGF[ n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 * shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_DY * shapeBkg_DY_muGGF_rebinPdf + n_exp_binmuGGF_proc_WW * shapeBkg_WW_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHWWlnuqq_M125 * shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZ * shapeBkg_WZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHWWlnuqq_M125 * shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZZ * shapeBkg_ZZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_top * shapeBkg_top_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j * shapeBkg_Wjets2j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j_slope * shapeSig_Wjets2j_slope_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j * shapeBkg_Wjets1j_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 * shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 * shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_QCD_MU * shapeBkg_QCD_MU_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 * shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZZ * shapeBkg_WZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 * shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZ * shapeBkg_ZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHWWlnuqq_M125 * shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWW * shapeBkg_WWW_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWZ * shapeBkg_WWZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets0j * shapeBkg_Wjets0j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j_slope * shapeSig_Wjets1j_slope_muGGF_rebinPdf ]
+     p.d.f value is less than zero (-0.000095), forcing value to zero @ !refCoefNorm=(CMS_th1x = 0.5), !pdfs=(shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf = 0.143619/1,shapeBkg_DY_muGGF_rebinPdf = 0.147836/1,shapeBkg_WW_muGGF_rebinPdf = 0.0734047/1,shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf = 0.0455336/1,shapeBkg_WZ_muGGF_rebinPdf = 0.0799626/1,shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf = 0.0963801/1,shapeBkg_ZZZ_muGGF_rebinPdf = 0.0310893/1,shapeBkg_top_muGGF_rebinPdf = 0.0447994/1,shapeBkg_Wjets2j_muGGF_rebinPdf = 0.0715929/1,shapeSig_Wjets2j_slope_muGGF_rebinPdf = 9.99397e-10/1,shapeBkg_Wjets1j_muGGF_rebinPdf = 0.246751/1,shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf = 0.0510007/1,shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf = 0.0293787/1,shapeBkg_QCD_MU_muGGF_rebinPdf = 0.114021/1,shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf = 0.0369125/1,shapeBkg_WZZ_muGGF_rebinPdf = 0.00744078/1,shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf = 0.0396884/1,shapeBkg_ZZ_muGGF_rebinPdf = 0.0761019/1,shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf = 0.162113/1,shapeBkg_WWW_muGGF_rebinPdf = 0.024614/1,shapeBkg_WWZ_muGGF_rebinPdf = 0.0219218/1,shapeBkg_Wjets0j_muGGF_rebinPdf = 0.51004/1,shapeSig_Wjets1j_slope_muGGF_rebinPdf = 0.123105/1), !coefficients=(n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 4.0821,n_exp_binmuGGF_proc_DY = 3546.77,n_exp_binmuGGF_proc_WW = 1335.01,n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 1.7196,n_exp_binmuGGF_proc_WZ = 362.869,n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 6.9691,n_exp_binmuGGF_proc_ZZZ = 0.0553,n_exp_binmuGGF_proc_top = 19355,n_exp_binmuGGF_proc_Wjets2j = 112849,n_exp_binmuGGF_proc_Wjets2j_slope = 353.17,n_exp_binmuGGF_proc_Wjets1j = 39247,n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.8008,n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.5259,n_exp_binmuGGF_proc_QCD_MU = 3850.76,n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 1.0737,n_exp_binmuGGF_proc_WZZ = 1.1122,n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3323,n_exp_binmuGGF_proc_ZZ = 13.9973,n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 4.0351,n_exp_binmuGGF_proc_WWW = 6.5013,n_exp_binmuGGF_proc_WWZ = 6.5212,n_exp_binmuGGF_proc_Wjets0j = 183.539,n_exp_binmuGGF_proc_Wjets1j_slope = -139.196)
+[#0] WARNING:Plotting -- At observable [x]=1 RooAddPdf::pdf_binmuGGF[ n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 * shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_DY * shapeBkg_DY_muGGF_rebinPdf + n_exp_binmuGGF_proc_WW * shapeBkg_WW_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHWWlnuqq_M125 * shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZ * shapeBkg_WZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHWWlnuqq_M125 * shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZZ * shapeBkg_ZZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_top * shapeBkg_top_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j * shapeBkg_Wjets2j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j_slope * shapeSig_Wjets2j_slope_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j * shapeBkg_Wjets1j_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 * shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 * shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_QCD_MU * shapeBkg_QCD_MU_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 * shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZZ * shapeBkg_WZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 * shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZ * shapeBkg_ZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHWWlnuqq_M125 * shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWW * shapeBkg_WWW_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWZ * shapeBkg_WWZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets0j * shapeBkg_Wjets0j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j_slope * shapeSig_Wjets1j_slope_muGGF_rebinPdf ]
+     p.d.f value is less than zero (-0.000095), forcing value to zero @ !refCoefNorm=(CMS_th1x = 1), !pdfs=(shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf = 0.143619/1,shapeBkg_DY_muGGF_rebinPdf = 0.147836/1,shapeBkg_WW_muGGF_rebinPdf = 0.0734047/1,shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf = 0.0455336/1,shapeBkg_WZ_muGGF_rebinPdf = 0.0799626/1,shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf = 0.0963801/1,shapeBkg_ZZZ_muGGF_rebinPdf = 0.0310893/1,shapeBkg_top_muGGF_rebinPdf = 0.0447994/1,shapeBkg_Wjets2j_muGGF_rebinPdf = 0.0715929/1,shapeSig_Wjets2j_slope_muGGF_rebinPdf = 9.99397e-10/1,shapeBkg_Wjets1j_muGGF_rebinPdf = 0.246751/1,shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf = 0.0510007/1,shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf = 0.0293787/1,shapeBkg_QCD_MU_muGGF_rebinPdf = 0.114021/1,shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf = 0.0369125/1,shapeBkg_WZZ_muGGF_rebinPdf = 0.00744078/1,shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf = 0.0396884/1,shapeBkg_ZZ_muGGF_rebinPdf = 0.0761019/1,shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf = 0.162113/1,shapeBkg_WWW_muGGF_rebinPdf = 0.024614/1,shapeBkg_WWZ_muGGF_rebinPdf = 0.0219218/1,shapeBkg_Wjets0j_muGGF_rebinPdf = 0.51004/1,shapeSig_Wjets1j_slope_muGGF_rebinPdf = 0.123105/1), !coefficients=(n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 4.0821,n_exp_binmuGGF_proc_DY = 3546.77,n_exp_binmuGGF_proc_WW = 1335.01,n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 1.7196,n_exp_binmuGGF_proc_WZ = 362.869,n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 6.9691,n_exp_binmuGGF_proc_ZZZ = 0.0553,n_exp_binmuGGF_proc_top = 19355,n_exp_binmuGGF_proc_Wjets2j = 112849,n_exp_binmuGGF_proc_Wjets2j_slope = 353.17,n_exp_binmuGGF_proc_Wjets1j = 39247,n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.8008,n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.5259,n_exp_binmuGGF_proc_QCD_MU = 3850.76,n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 1.0737,n_exp_binmuGGF_proc_WZZ = 1.1122,n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3323,n_exp_binmuGGF_proc_ZZ = 13.9973,n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 4.0351,n_exp_binmuGGF_proc_WWW = 6.5013,n_exp_binmuGGF_proc_WWZ = 6.5212,n_exp_binmuGGF_proc_Wjets0j = 183.539,n_exp_binmuGGF_proc_Wjets1j_slope = -139.196)
+[#0] WARNING:Plotting -- At observable [x]=0.5 RooAddPdf::pdf_binmuGGF[ n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 * shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_DY * shapeBkg_DY_muGGF_rebinPdf + n_exp_binmuGGF_proc_WW * shapeBkg_WW_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHWWlnuqq_M125 * shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZ * shapeBkg_WZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHWWlnuqq_M125 * shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZZ * shapeBkg_ZZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_top * shapeBkg_top_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j * shapeBkg_Wjets2j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets2j_slope * shapeSig_Wjets2j_slope_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j * shapeBkg_Wjets1j_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 * shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 * shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_QCD_MU * shapeBkg_QCD_MU_muGGF_rebinPdf + n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 * shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WZZ * shapeBkg_WZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 * shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_ZZ * shapeBkg_ZZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_WmHWWlnuqq_M125 * shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWW * shapeBkg_WWW_muGGF_rebinPdf + n_exp_binmuGGF_proc_WWZ * shapeBkg_WWZ_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets0j * shapeBkg_Wjets0j_muGGF_rebinPdf + n_exp_binmuGGF_proc_Wjets1j_slope * shapeSig_Wjets1j_slope_muGGF_rebinPdf ]
+     p.d.f value is less than zero (-0.000095), forcing value to zero @ !refCoefNorm=(CMS_th1x = 0.5), !pdfs=(shapeBkg_ggHtautaulnuqq_M125_muGGF_rebinPdf = 0.143619/1,shapeBkg_DY_muGGF_rebinPdf = 0.147836/1,shapeBkg_WW_muGGF_rebinPdf = 0.0734047/1,shapeBkg_ZHWWlnuqq_M125_muGGF_rebinPdf = 0.0455336/1,shapeBkg_WZ_muGGF_rebinPdf = 0.0799626/1,shapeBkg_WpHWWlnuqq_M125_muGGF_rebinPdf = 0.0963801/1,shapeBkg_ZZZ_muGGF_rebinPdf = 0.0310893/1,shapeBkg_top_muGGF_rebinPdf = 0.0447994/1,shapeBkg_Wjets2j_muGGF_rebinPdf = 0.0715929/1,shapeSig_Wjets2j_slope_muGGF_rebinPdf = 9.99397e-10/1,shapeBkg_Wjets1j_muGGF_rebinPdf = 0.246751/1,shapeBkg_WmHtautaulnuqq_M125_muGGF_rebinPdf = 0.0510007/1,shapeBkg_vbfHtautaulnuqq_M125_muGGF_rebinPdf = 0.0293787/1,shapeBkg_QCD_MU_muGGF_rebinPdf = 0.114021/1,shapeBkg_WpHtautaulnuqq_M125_muGGF_rebinPdf = 0.0369125/1,shapeBkg_WZZ_muGGF_rebinPdf = 0.00744078/1,shapeBkg_ZHtautaulnuqq_M125_muGGF_rebinPdf = 0.0396884/1,shapeBkg_ZZ_muGGF_rebinPdf = 0.0761019/1,shapeBkg_WmHWWlnuqq_M125_muGGF_rebinPdf = 0.162113/1,shapeBkg_WWW_muGGF_rebinPdf = 0.024614/1,shapeBkg_WWZ_muGGF_rebinPdf = 0.0219218/1,shapeBkg_Wjets0j_muGGF_rebinPdf = 0.51004/1,shapeSig_Wjets1j_slope_muGGF_rebinPdf = 0.123105/1), !coefficients=(n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 4.0821,n_exp_binmuGGF_proc_DY = 3546.77,n_exp_binmuGGF_proc_WW = 1335.01,n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 1.7196,n_exp_binmuGGF_proc_WZ = 362.869,n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 6.9691,n_exp_binmuGGF_proc_ZZZ = 0.0553,n_exp_binmuGGF_proc_top = 19355,n_exp_binmuGGF_proc_Wjets2j = 112849,n_exp_binmuGGF_proc_Wjets2j_slope = 353.17,n_exp_binmuGGF_proc_Wjets1j = 39247,n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.8008,n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.5259,n_exp_binmuGGF_proc_QCD_MU = 3850.76,n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 1.0737,n_exp_binmuGGF_proc_WZZ = 1.1122,n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3323,n_exp_binmuGGF_proc_ZZ = 13.9973,n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 4.0351,n_exp_binmuGGF_proc_WWW = 6.5013,n_exp_binmuGGF_proc_WWZ = 6.5212,n_exp_binmuGGF_proc_Wjets0j = 183.539,n_exp_binmuGGF_proc_Wjets1j_slope = -139.196)
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF = 180991
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [MAIN_MEASUREMENT,SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x907ae50
+  Clients: 
+    (0x90b60e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x9079b30,V-) FastVerticalInterpHistPdf2::shapeBkg_ggHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x907c2a0,V-) FastVerticalInterpHistPdf2::shapeBkg_DY_muVBF_rebinPdf ""
+    (0x907dc90,V-) FastVerticalInterpHistPdf2::shapeBkg_WW_muVBF_rebinPdf ""
+    (0x907fab0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x9081420,V-) FastVerticalInterpHistPdf2::shapeBkg_WZ_muVBF_rebinPdf ""
+    (0x9082dc0,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x9084840,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZZ_muVBF_rebinPdf ""
+    (0x90861e0,V-) FastVerticalInterpHistPdf2::shapeBkg_top_muVBF_rebinPdf ""
+    (0x9087bd0,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets2j_muVBF_rebinPdf ""
+    (0x90895c0,V-) FastVerticalInterpHistPdf2::shapeSig_Wjets2j_slope_muVBF_rebinPdf ""
+    (0x908b090,V-) FastVerticalInterpHistPdf2::shapeBkg_Wjets1j_muVBF_rebinPdf ""
+    (0x908ca30,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x908e4b0,V-) FastVerticalInterpHistPdf2::shapeBkg_vbfHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x908fee0,V-) FastVerticalInterpHistPdf2::shapeBkg_QCD_MU_muVBF_rebinPdf ""
+    (0x9091880,V-) FastVerticalInterpHistPdf2::shapeBkg_WpHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x9093300,V-) FastVerticalInterpHistPdf2::shapeBkg_WZZ_muVBF_rebinPdf ""
+    (0x9094ca0,V-) FastVerticalInterpHistPdf2::shapeBkg_ZHtautaulnuqq_M125_muVBF_rebinPdf ""
+    (0x9096720,V-) FastVerticalInterpHistPdf2::shapeBkg_ZZ_muVBF_rebinPdf ""
+    (0x90980c0,V-) FastVerticalInterpHistPdf2::shapeBkg_WmHWWlnuqq_M125_muVBF_rebinPdf ""
+    (0x9099b40,V-) FastVerticalInterpHistPdf2::shapeBkg_WWW_muVBF_rebinPdf ""
+    (0x909b4e0,V-) FastVerticalInterpHistPdf2::shapeBkg_WWZ_muVBF_rebinPdf ""
+    (0x909ced0,V-) RooRealVar::n_exp_binmuVBF_proc_ggHtautaulnuqq_M125 "n_exp_binmuVBF_proc_ggHtautaulnuqq_M125"
+    (0x90a5cd0,V-) RooRealVar::n_exp_binmuVBF_proc_DY "n_exp_binmuVBF_proc_DY"
+    (0x90a69a0,V-) RooRealVar::n_exp_binmuVBF_proc_WW "n_exp_binmuVBF_proc_WW"
+    (0x90a76a0,V-) RooRealVar::n_exp_binmuVBF_proc_ZHWWlnuqq_M125 "n_exp_binmuVBF_proc_ZHWWlnuqq_M125"
+    (0x90a83f0,V-) RooRealVar::n_exp_binmuVBF_proc_WZ "n_exp_binmuVBF_proc_WZ"
+    (0x90a90f0,V-) RooRealVar::n_exp_binmuVBF_proc_WpHWWlnuqq_M125 "n_exp_binmuVBF_proc_WpHWWlnuqq_M125"
+    (0x90a9e40,V-) RooRealVar::n_exp_binmuVBF_proc_ZZZ "n_exp_binmuVBF_proc_ZZZ"
+    (0x90aab40,V-) RooRealVar::n_exp_binmuVBF_proc_top "n_exp_binmuVBF_proc_top"
+    (0x90ab840,V-) ProcessNormalization::n_exp_binmuVBF_proc_Wjets2j ""
+    (0x90ac440,V-) ProcessNormalization::n_exp_binmuVBF_proc_Wjets2j_slope ""
+    (0x90ad0f0,V-) ProcessNormalization::n_exp_binmuVBF_proc_Wjets1j ""
+    (0x90add20,V-) RooRealVar::n_exp_binmuVBF_proc_WmHtautaulnuqq_M125 "n_exp_binmuVBF_proc_WmHtautaulnuqq_M125"
+    (0x90aead0,V-) RooRealVar::n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125 "n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125"
+    (0x90af820,V-) RooRealVar::n_exp_binmuVBF_proc_QCD_MU "n_exp_binmuVBF_proc_QCD_MU"
+    (0x90b04f0,V-) RooRealVar::n_exp_binmuVBF_proc_WpHtautaulnuqq_M125 "n_exp_binmuVBF_proc_WpHtautaulnuqq_M125"
+    (0x90b1270,V-) RooRealVar::n_exp_binmuVBF_proc_WZZ "n_exp_binmuVBF_proc_WZZ"
+    (0x90b1f40,V-) RooRealVar::n_exp_binmuVBF_proc_ZHtautaulnuqq_M125 "n_exp_binmuVBF_proc_ZHtautaulnuqq_M125"
+    (0x90b2cc0,V-) RooRealVar::n_exp_binmuVBF_proc_ZZ "n_exp_binmuVBF_proc_ZZ"
+    (0x90b3990,V-) RooRealVar::n_exp_binmuVBF_proc_WmHWWlnuqq_M125 "n_exp_binmuVBF_proc_WmHWWlnuqq_M125"
+    (0x90b46e0,V-) RooRealVar::n_exp_binmuVBF_proc_WWW "n_exp_binmuVBF_proc_WWW"
+    (0x90b53e0,V-) RooRealVar::n_exp_binmuVBF_proc_WWZ "n_exp_binmuVBF_proc_WWZ"
+  Proxies: 
+    !refCoefNorm -> 
+    !refCoefNorm -> 
+    !pdfs -> 
+      1)   shapeBkg_ggHtautaulnuqq_M125_muVBF_rebinPdf
+      2)                    shapeBkg_DY_muVBF_rebinPdf
+      3)                    shapeBkg_WW_muVBF_rebinPdf
+      4)        shapeBkg_ZHWWlnuqq_M125_muVBF_rebinPdf
+      5)                    shapeBkg_WZ_muVBF_rebinPdf
+      6)       shapeBkg_WpHWWlnuqq_M125_muVBF_rebinPdf
+      7)                   shapeBkg_ZZZ_muVBF_rebinPdf
+      8)                   shapeBkg_top_muVBF_rebinPdf
+      9)               shapeBkg_Wjets2j_muVBF_rebinPdf
+     10)         shapeSig_Wjets2j_slope_muVBF_rebinPdf
+     11)               shapeBkg_Wjets1j_muVBF_rebinPdf
+     12)   shapeBkg_WmHtautaulnuqq_M125_muVBF_rebinPdf
+     13)  shapeBkg_vbfHtautaulnuqq_M125_muVBF_rebinPdf
+     14)                shapeBkg_QCD_MU_muVBF_rebinPdf
+     15)   shapeBkg_WpHtautaulnuqq_M125_muVBF_rebinPdf
+     16)                   shapeBkg_WZZ_muVBF_rebinPdf
+     17)    shapeBkg_ZHtautaulnuqq_M125_muVBF_rebinPdf
+     18)                    shapeBkg_ZZ_muVBF_rebinPdf
+     19)       shapeBkg_WmHWWlnuqq_M125_muVBF_rebinPdf
+     20)                   shapeBkg_WWW_muVBF_rebinPdf
+     21)                   shapeBkg_WWZ_muVBF_rebinPdf
+    !coefficients -> 
+      1)   n_exp_binmuVBF_proc_ggHtautaulnuqq_M125
+      2)                    n_exp_binmuVBF_proc_DY
+      3)                    n_exp_binmuVBF_proc_WW
+      4)        n_exp_binmuVBF_proc_ZHWWlnuqq_M125
+      5)                    n_exp_binmuVBF_proc_WZ
+      6)       n_exp_binmuVBF_proc_WpHWWlnuqq_M125
+      7)                   n_exp_binmuVBF_proc_ZZZ
+      8)                   n_exp_binmuVBF_proc_top
+      9)               n_exp_binmuVBF_proc_Wjets2j
+     10)         n_exp_binmuVBF_proc_Wjets2j_slope
+     11)               n_exp_binmuVBF_proc_Wjets1j
+     12)   n_exp_binmuVBF_proc_WmHtautaulnuqq_M125
+     13)  n_exp_binmuVBF_proc_vbfHtautaulnuqq_M125
+     14)                n_exp_binmuVBF_proc_QCD_MU
+     15)   n_exp_binmuVBF_proc_WpHtautaulnuqq_M125
+     16)                   n_exp_binmuVBF_proc_WZZ
+     17)    n_exp_binmuVBF_proc_ZHtautaulnuqq_M125
+     18)                    n_exp_binmuVBF_proc_ZZ
+     19)       n_exp_binmuVBF_proc_WmHWWlnuqq_M125
+     20)                   n_exp_binmuVBF_proc_WWW
+     21)                   n_exp_binmuVBF_proc_WWZ
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muVBF (muVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muVBF_CMS_th1x, pdf pdf_binmuVBF = 3854.51
+Error in <TList::Clear>: A list is accessing an object (0x91343cc) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x9134674) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x913491c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x9134bc4) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./eleGGF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./eleVBF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./muVBF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_s.png has been created
+
+ --- FitDiagnostics ---
+Best fit w_min0j: 2  -0.114087/+3.90558e-09  (68% CL)
+Done in 0.11 min (cpu), 0.11 min (real)

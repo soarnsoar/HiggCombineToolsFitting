@@ -1,0 +1,73 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+PDF didn't factorize!
+Parameters: 
+  1) RooRealVar::                     mW_intercept_Wjets1j = 1
+  2) RooRealVar::                     mW_intercept_Wjets2j = 1
+  3) RooRealVar::                   n_exp_binmuGGF_proc_DY = 93.7931
+  4) RooRealVar::                   n_exp_binmuGGF_proc_WW = 199.961
+  5) RooRealVar::                  n_exp_binmuGGF_proc_WWW = 2.4607
+  6) RooRealVar::                  n_exp_binmuGGF_proc_WWZ = 3.1607
+  7) RooRealVar::                   n_exp_binmuGGF_proc_WZ = 58.9071
+  8) RooRealVar::                  n_exp_binmuGGF_proc_WZZ = 0.367
+  9) RooRealVar::      n_exp_binmuGGF_proc_WmHWWlnuqq_M125 = 1.0716
+ 10) RooRealVar::  n_exp_binmuGGF_proc_WmHtautaulnuqq_M125 = 0.1859
+ 11) RooRealVar::      n_exp_binmuGGF_proc_WpHWWlnuqq_M125 = 2.0805
+ 12) RooRealVar::  n_exp_binmuGGF_proc_WpHtautaulnuqq_M125 = 0.4762
+ 13) RooRealVar::       n_exp_binmuGGF_proc_ZHWWlnuqq_M125 = 0.6716
+ 14) RooRealVar::   n_exp_binmuGGF_proc_ZHtautaulnuqq_M125 = 0.3495
+ 15) RooRealVar::                   n_exp_binmuGGF_proc_ZZ = 2.9637
+ 16) RooRealVar::                  n_exp_binmuGGF_proc_ZZZ = 0.0196
+ 17) RooRealVar::  n_exp_binmuGGF_proc_ggHtautaulnuqq_M125 = 0.1711
+ 18) RooRealVar::                  n_exp_binmuGGF_proc_top = 1219.4
+ 19) RooRealVar:: n_exp_binmuGGF_proc_vbfHtautaulnuqq_M125 = 0.0448
+Obs: 
+  1) RooRealVar::    CMS_th1x = 20.5
+  2) RooCategory:: CMS_channel = muGGF(idx = 0)
+
+
+ *** Break *** segmentation violation
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+Skipping r_slope0j. Parameter not found in the RooFitResult.
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x00007f51e498046c in waitpid () from /lib64/libc.so.6
+#1  0x00007f51e48fdf62 in do_system () from /lib64/libc.so.6
+#2  0x00007f51e6461a8b in TUnixSystem::StackTrace() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_13/external/slc7_amd64_gcc700/lib/libCore.so
+#3  0x00007f51e64640cc in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_13/external/slc7_amd64_gcc700/lib/libCore.so
+#4  <signal handler called>
+#5  __cxxabiv1::__dynamic_cast (src_ptr=0x0, src_type=0x7f51e7b2ddf0 <typeinfo for RooAbsArg>, dst_type=0x7f51e7b54b98 <typeinfo for RooRealVar>, src2dst=0) at ../../../../libstdc++-v3/libsupc++/dyncast.cc:50
+#6  0x00007f51e82582ed in FitterAlgoBase::doFit(RooAbsPdf&, RooAbsData&, RooArgList const&, RooCmdArg const&, bool, int, bool, bool) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#7  0x00007f51e81d0eea in MultiDimFit::runSpecific(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&, double const*) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#8  0x00007f51e825706c in FitterAlgoBase::run(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&, double const*) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#9  0x00007f51e82c2c50 in Combine::mklimit(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#10 0x00007f51e82cbd24 in Combine::run(TString, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, double&, double&, int&, TTree*, int) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#11 0x000000000041067c in main ()
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum http://root.cern.ch/forum.
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at http://root.cern.ch/bugs. Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  __cxxabiv1::__dynamic_cast (src_ptr=0x0, src_type=0x7f51e7b2ddf0 <typeinfo for RooAbsArg>, dst_type=0x7f51e7b54b98 <typeinfo for RooRealVar>, src2dst=0) at ../../../../libstdc++-v3/libsupc++/dyncast.cc:50
+#6  0x00007f51e82582ed in FitterAlgoBase::doFit(RooAbsPdf&, RooAbsData&, RooArgList const&, RooCmdArg const&, bool, int, bool, bool) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#7  0x00007f51e81d0eea in MultiDimFit::runSpecific(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&, double const*) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#8  0x00007f51e825706c in FitterAlgoBase::run(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&, double const*) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#9  0x00007f51e82c2c50 in Combine::mklimit(RooWorkspace*, RooStats::ModelConfig*, RooStats::ModelConfig*, RooAbsData&, double&, double&) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#10 0x00007f51e82cbd24 in Combine::run(TString, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, double&, double&, int&, TTree*, int) () from /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Configurations/HWWSemiLepHighMass/Full_v6Production/ForAN/WjetsShape/fitting/CMSSW_10_2_13/lib/slc7_amd64_gcc700/libHiggsAnalysisCombinedLimit.so
+#11 0x000000000041067c in main ()
+===========================================================
+
+

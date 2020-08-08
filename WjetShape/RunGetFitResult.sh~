@@ -1,0 +1,7 @@
+nuisances="CMS_mW_intercept_Wjets0j,CMS_mW_intercept_Wjets1j,CMS_mW_intercept_Wjets2j,CMS_mW_slope_Wjets0j,CMS_mW_slope_Wjets1j,CMS_mW_slope_Wjets2j"
+
+
+#workspace_Boosted/fitDiagnosticsworkspace.root
+
+python GetFitResult.py workspace_Boosted/fitDiagnosticsworkspace.root $nuisances
+python GetFitResult.py workspace_Resolved/fitDiagnosticsworkspace.root $nuisances

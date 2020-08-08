@@ -1,0 +1,1484 @@
+e<setPhysicsOptions>
+<doParametersOfInterest>
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+QCD_bcToE
+<getYieldScale>
+QCD_EM
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets0j
+<getYieldScale>
+Wjets1j_slope
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+QCD_bcToE
+<getYieldScale>
+QCD_EM
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+QCD_MU
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets0j
+<getYieldScale>
+Wjets1j_slope
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+QCD_MU
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+Channel eleGGF will use autoMCStats with settings: event-threshold=10, include-signal=0, hist-mode=1
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+QCD_bcToE
+<getYieldScale>
+QCD_EM
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets0j
+<getYieldScale>
+Wjets1j_slope
+============================================================
+Analysing bin errors for: prop_bineleGGF
+Poisson cut-off: 10
+Processes excluded for sums: Wjets2j_slope Wjets1j_slope
+============================================================
+Bin        Contents        Error           Notes                         
+0          11523.534752    406.219558      total sum                     
+0          11522.720792    406.219135      excluding marked processes    
+0          805.000000      28.372522       Unweighted events, alpha=14.314950
+  => Total parameter prop_bineleGGF_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          11014.639190    372.344392      total sum                     
+1          11008.724762    372.330536      excluding marked processes    
+1          874.000000      29.563491       Unweighted events, alpha=12.602562
+  => Total parameter prop_bineleGGF_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          10898.597582    336.754293      total sum                     
+2          10890.906394    336.726796      excluding marked processes    
+2          1046.000000     32.341923       Unweighted events, alpha=10.419309
+  => Total parameter prop_bineleGGF_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          21128.762396    420.307578      total sum                     
+3          21104.985201    420.273873      excluding marked processes    
+3          2522.000000     50.219518       Unweighted events, alpha=8.377780
+  => Total parameter prop_bineleGGF_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         5833.231842     175.270314      total sum                     
+12         5826.209851     175.260954      excluding marked processes    
+12         1105.000000     33.241540       Unweighted events, alpha=5.278943
+  => Total parameter prop_bineleGGF_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         5558.682953     179.884028      total sum                     
+13         5555.086530     179.879859      excluding marked processes    
+13         954.000000      30.886890       Unweighted events, alpha=5.826712
+  => Total parameter prop_bineleGGF_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         4839.293065     158.055542      total sum                     
+14         4836.379629     158.052808      excluding marked processes    
+14         936.000000      30.594117       Unweighted events, alpha=5.170185
+  => Total parameter prop_bineleGGF_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         4417.157187     171.850295      total sum                     
+15         4416.858643     171.849670      excluding marked processes    
+15         661.000000      25.709920       Unweighted events, alpha=6.682537
+  => Total parameter prop_bineleGGF_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         3903.968157     142.769294      total sum                     
+16         3903.968157     142.768936      excluding marked processes    
+16         748.000000      27.349589       Unweighted events, alpha=5.219209
+  => Total parameter prop_bineleGGF_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         12853.698505    276.093966      total sum                     
+17         12852.294282    276.093452      excluding marked processes    
+17         2167.000000     46.551047       Unweighted events, alpha=5.931564
+  => Total parameter prop_bineleGGF_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         8187.159024     217.676132      total sum                     
+18         8186.511136     217.675431      excluding marked processes    
+18         1414.000000     37.603191       Unweighted events, alpha=5.790070
+  => Total parameter prop_bineleGGF_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         7845.400756     257.319263      total sum                     
+19         7844.845636     257.319097      excluding marked processes    
+19         929.000000      30.479501       Unweighted events, alpha=8.444995
+  => Total parameter prop_bineleGGF_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         6908.538984     198.125804      total sum                     
+20         6908.443085     198.125769      excluding marked processes    
+20         1216.000000     34.871192       Unweighted events, alpha=5.681364
+  => Total parameter prop_bineleGGF_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel eleVBF will use autoMCStats with settings: event-threshold=10, include-signal=0, hist-mode=1
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+QCD_bcToE
+<getYieldScale>
+QCD_EM
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+============================================================
+Analysing bin errors for: prop_bineleVBF
+Poisson cut-off: 10
+Processes excluded for sums: Wjets2j_slope
+============================================================
+Bin        Contents        Error           Notes                         
+0          46.786563       21.151240       total sum                     
+0          46.786563       21.151240       excluding marked processes    
+0          5.000000        2.236068        Unweighted events, alpha=9.357313
+  => Number of weighted events is below poisson threshold
+    ggHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    DY                   1.712427        1.712427                                      
+                         1.000000        1.000000        Unweighted events, alpha=1.712427
+      => Product of prop_bineleVBF_bin0_DY[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    WW                   1.910433        1.384237                                      
+                         2.000000        1.414214        Unweighted events, alpha=0.955216
+      => Product of prop_bineleVBF_bin0_WW[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+    ZHWWlnuqq_M125       0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZ                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WpHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZZZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    top                  9.558493        0.806211                                      
+                         141.000000      11.874342       Unweighted events, alpha=0.067791
+      => Parameter prop_bineleVBF_bin0_top[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    Wjets2j              37.332417       15.122868                                     
+                         6.000000        2.449490        Unweighted events, alpha=6.222069
+      => Product of prop_bineleVBF_bin0_Wjets2j[6.00,0.03,43.60] and const [0.1667] to be poisson constrained
+  ----------------------------------------------------------
+    Wjets2j_slope        0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    Wjets1j              0.000000        17.799588                                     
+      => Poisson not viable, prop_bineleVBF_bin0_Wjets1j[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    vbfHtautaulnuqq_M125 0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WpHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    QCD_bcToE            0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    QCD_EM               0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZHtautaulnuqq_M125   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZZ                   0.006036        0.006036                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.006036
+      => Product of prop_bineleVBF_bin0_ZZ[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    WmHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WWW                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WWZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+------------------------------------------------------------
+1          55.133925       15.512906       total sum                     
+1          54.881205       15.510848       excluding marked processes    
+1          13.000000       3.605551        Unweighted events, alpha=4.241071
+  => Total parameter prop_bineleVBF_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          135.637538      27.005155       total sum                     
+2          134.979717      27.000582       excluding marked processes    
+2          25.000000       5.000000        Unweighted events, alpha=5.425502
+  => Total parameter prop_bineleVBF_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          547.602398      157.320569      total sum                     
+3          547.602398      157.319673      excluding marked processes    
+3          12.000000       3.464102        Unweighted events, alpha=45.633533
+  => Total parameter prop_bineleVBF_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         184.554638      25.815656       total sum                     
+12         183.960095      25.811859       excluding marked processes    
+12         51.000000       7.141428        Unweighted events, alpha=3.618718
+  => Total parameter prop_bineleVBF_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         156.914259      20.646660       total sum                     
+13         156.914259      20.646660       excluding marked processes    
+13         58.000000       7.615773        Unweighted events, alpha=2.705418
+  => Total parameter prop_bineleVBF_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         216.734397      64.959403       total sum                     
+14         216.734397      64.959403       excluding marked processes    
+14         11.000000       3.316625        Unweighted events, alpha=19.703127
+  => Total parameter prop_bineleVBF_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         118.679330      17.252366       total sum                     
+15         118.679330      17.252366       excluding marked processes    
+15         47.000000       6.855655        Unweighted events, alpha=2.525092
+  => Total parameter prop_bineleVBF_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         194.767018      114.153902      total sum                     
+16         194.767018      114.153902      excluding marked processes    
+16         3.000000        1.732051        Unweighted events, alpha=64.922339
+  => Number of weighted events is below poisson threshold
+    ggHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    DY                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WW                   2.217905        1.568312                                      
+                         2.000000        1.414214        Unweighted events, alpha=1.108953
+      => Product of prop_bineleVBF_bin16_WW[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+    ZHWWlnuqq_M125       0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZ                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WpHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZZZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    top                  37.336666       1.784767                                      
+                         438.000000      20.928450       Unweighted events, alpha=0.085244
+      => Parameter prop_bineleVBF_bin16_top[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    Wjets2j              46.740822       17.101586                                     
+                         7.000000        2.645751        Unweighted events, alpha=6.677260
+      => Product of prop_bineleVBF_bin16_Wjets2j[7.00,0.07,45.79] and const [0.1429] to be poisson constrained
+  ----------------------------------------------------------
+    Wjets2j_slope        0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    Wjets1j              0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    vbfHtautaulnuqq_M125 0.005703        0.005703                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.005703
+      => Product of prop_bineleVBF_bin16_vbfHtautaulnuqq_M125[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    WpHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZZ                  0.010098        0.010098                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.010098
+      => Product of prop_bineleVBF_bin16_WZZ[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    QCD_bcToE            0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    QCD_EM               113.086563      113.086564                                    
+                         1.000000        1.000000        Unweighted events, alpha=113.086563
+      => Product of prop_bineleVBF_bin16_QCD_EM[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    ZHtautaulnuqq_M125   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZZ                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WmHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WWW                  0.043343        0.034712                                      
+                         2.000000        1.414214        Unweighted events, alpha=0.021671
+      => Product of prop_bineleVBF_bin16_WWW[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+    WWZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+------------------------------------------------------------
+17         309.752910      31.540566       total sum                     
+17         309.752910      31.538967       excluding marked processes    
+17         96.000000       9.797959        Unweighted events, alpha=3.226593
+  => Total parameter prop_bineleVBF_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         212.077240      36.888650       total sum                     
+18         212.077240      36.888650       excluding marked processes    
+18         33.000000       5.744563        Unweighted events, alpha=6.426583
+  => Total parameter prop_bineleVBF_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         182.801243      46.205878       total sum                     
+19         182.801243      46.205878       excluding marked processes    
+19         16.000000       4.000000        Unweighted events, alpha=11.425078
+  => Total parameter prop_bineleVBF_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         128.109363      21.707957       total sum                     
+20         128.109363      21.707957       excluding marked processes    
+20         35.000000       5.916080        Unweighted events, alpha=3.660268
+  => Total parameter prop_bineleVBF_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel muGGF will use autoMCStats with settings: event-threshold=10, include-signal=0, hist-mode=1
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+QCD_MU
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets0j
+<getYieldScale>
+Wjets1j_slope
+============================================================
+Analysing bin errors for: prop_binmuGGF
+Poisson cut-off: 10
+Processes excluded for sums: Wjets2j_slope Wjets1j_slope
+============================================================
+Bin        Contents        Error           Notes                         
+0          16885.992469    660.564850      total sum                     
+0          16883.394503    660.559547      excluding marked processes    
+0          653.000000      25.553865       Unweighted events, alpha=25.859100
+  => Total parameter prop_binmuGGF_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          16662.614518    585.654551      total sum                     
+1          16661.278912    585.653870      excluding marked processes    
+1          809.000000      28.442925       Unweighted events, alpha=20.596557
+  => Total parameter prop_binmuGGF_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          16356.238579    386.638329      total sum                     
+2          16347.665924    386.620530      excluding marked processes    
+2          1788.000000     42.284749       Unweighted events, alpha=9.147784
+  => Total parameter prop_binmuGGF_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          33018.380284    694.342572      total sum                     
+3          32970.964431    694.297923      excluding marked processes    
+3          2255.000000     47.486840       Unweighted events, alpha=14.642297
+  => Total parameter prop_binmuGGF_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         8816.951157     207.927745      total sum                     
+12         8805.535025     207.917853      excluding marked processes    
+12         1794.000000     42.355637       Unweighted events, alpha=4.914688
+  => Total parameter prop_binmuGGF_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         7601.231785     193.962377      total sum                     
+13         7597.522229     193.957916      excluding marked processes    
+13         1534.000000     39.166312       Unweighted events, alpha=4.955171
+  => Total parameter prop_binmuGGF_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         6963.083633     185.028841      total sum                     
+14         6960.894400     185.026524      excluding marked processes    
+14         1415.000000     37.616486       Unweighted events, alpha=4.920907
+  => Total parameter prop_binmuGGF_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         7055.994046     452.898827      total sum                     
+15         7053.788354     452.898044      excluding marked processes    
+15         243.000000      15.588457       Unweighted events, alpha=29.037013
+  => Total parameter prop_binmuGGF_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         5704.254241     173.076899      total sum                     
+16         5702.610202     173.075693      excluding marked processes    
+16         1086.000000     32.954514       Unweighted events, alpha=5.252536
+  => Total parameter prop_binmuGGF_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         19313.132460    913.766925      total sum                     
+17         19312.386884    913.766544      excluding marked processes    
+17         447.000000      21.142375       Unweighted events, alpha=43.206113
+  => Total parameter prop_binmuGGF_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         11724.851425    251.456410      total sum                     
+18         11723.560482    251.455859      excluding marked processes    
+18         2174.000000     46.626173       Unweighted events, alpha=5.393216
+  => Total parameter prop_binmuGGF_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         11401.113476    585.884915      total sum                     
+19         11400.603456    585.884786      excluding marked processes    
+19         379.000000      19.467922       Unweighted events, alpha=30.082094
+  => Total parameter prop_binmuGGF_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         9496.632974     235.928556      total sum                     
+20         9496.120987     235.928468      excluding marked processes    
+20         1620.000000     40.249224       Unweighted events, alpha=5.862119
+  => Total parameter prop_binmuGGF_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel muVBF will use autoMCStats with settings: event-threshold=10, include-signal=0, hist-mode=1
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+QCD_MU
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+============================================================
+Analysing bin errors for: prop_binmuVBF
+Poisson cut-off: 10
+Processes excluded for sums: Wjets2j_slope
+============================================================
+Bin        Contents        Error           Notes                         
+0          79.763328       23.241340       total sum                     
+0          79.763328       23.241340       excluding marked processes    
+0          12.000000       3.464102        Unweighted events, alpha=6.646944
+  => Total parameter prop_binmuVBF_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          134.532642      25.144892       total sum                     
+1          134.532642      25.144892       excluding marked processes    
+1          29.000000       5.385165        Unweighted events, alpha=4.639057
+  => Total parameter prop_binmuVBF_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          169.186874      24.138490       total sum                     
+2          168.566536      24.134459       excluding marked processes    
+2          49.000000       7.000000        Unweighted events, alpha=3.452793
+  => Total parameter prop_binmuVBF_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          645.417840      49.117495       total sum                     
+3          644.612981      49.113360       excluding marked processes    
+3          172.000000      13.114877       Unweighted events, alpha=3.752429
+  => Total parameter prop_binmuVBF_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         213.311022      25.415915       total sum                     
+12         213.311022      25.409343       excluding marked processes    
+12         70.000000       8.366600        Unweighted events, alpha=3.047300
+  => Total parameter prop_binmuVBF_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         187.290211      22.637722       total sum                     
+13         186.902244      22.630151       excluding marked processes    
+13         68.000000       8.246211        Unweighted events, alpha=2.754268
+  => Total parameter prop_binmuVBF_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         1007.719515     846.098180      total sum                     
+14         1007.446823     846.098136      excluding marked processes    
+14         1.000000        1.000000        Unweighted events, alpha=1007.719515
+  => Number of weighted events is below poisson threshold
+    ggHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    DY                   10.102340       5.435467                                      
+                         3.000000        1.732051        Unweighted events, alpha=3.367447
+      => Product of prop_binmuVBF_bin14_DY[3.00,0.00,36.46] and const [0.3333] to be poisson constrained
+  ----------------------------------------------------------
+    WW                   2.007661        1.477857                                      
+                         2.000000        1.414214        Unweighted events, alpha=1.003830
+      => Product of prop_binmuVBF_bin14_WW[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+    ZHWWlnuqq_M125       0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZ                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WpHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZZZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    top                  73.476974       2.516336                                      
+                         853.000000      29.206164       Unweighted events, alpha=0.086139
+      => Parameter prop_binmuVBF_bin14_top[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    Wjets2j              84.403870       23.914141                                     
+                         12.000000       3.464102        Unweighted events, alpha=7.033656
+      => Parameter prop_binmuVBF_bin14_Wjets2j[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    Wjets2j_slope        1.363461        1.363461                                      
+                         1.000000        1.000000        Unweighted events, alpha=1.363461
+      => Product of prop_binmuVBF_bin14_Wjets2j_slope[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    Wjets1j              0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WmHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    vbfHtautaulnuqq_M125 0.007781        0.007781                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.007781
+      => Product of prop_binmuVBF_bin14_vbfHtautaulnuqq_M125[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    QCD_MU               845.801819      845.801847                                    
+                         1.000000        1.000000        Unweighted events, alpha=845.801819
+      => Product of prop_binmuVBF_bin14_QCD_MU[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    WpHtautaulnuqq_M125  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WZZ                  0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    ZHtautaulnuqq_M125   0.003131        0.002915                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.003131
+      => Product of prop_binmuVBF_bin14_ZHtautaulnuqq_M125[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    ZZ                   0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WmHWWlnuqq_M125      0.000000        0.000000                                      
+      => Error is zero, ignore      
+  ----------------------------------------------------------
+    WWW                  0.041723        0.041723                                      
+                         1.000000        1.000000        Unweighted events, alpha=0.041723
+      => Product of prop_binmuVBF_bin14_WWW[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    WWZ                  0.041912        0.029698                                      
+                         2.000000        1.414214        Unweighted events, alpha=0.020956
+      => Product of prop_binmuVBF_bin14_WWZ[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+------------------------------------------------------------
+15         198.022927      22.934455       total sum                     
+15         198.022927      22.934455       excluding marked processes    
+15         75.000000       8.660254        Unweighted events, alpha=2.640306
+  => Total parameter prop_binmuVBF_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         163.857666      26.313874       total sum                     
+16         163.857666      26.313874       excluding marked processes    
+16         39.000000       6.244998        Unweighted events, alpha=4.201479
+  => Total parameter prop_binmuVBF_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         409.912343      35.744221       total sum                     
+17         409.912343      35.743341       excluding marked processes    
+17         132.000000      11.489125       Unweighted events, alpha=3.105397
+  => Total parameter prop_binmuVBF_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         254.817858      29.515191       total sum                     
+18         254.817858      29.515191       excluding marked processes    
+18         75.000000       8.660254        Unweighted events, alpha=3.397571
+  => Total parameter prop_binmuVBF_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         219.769326      32.228678       total sum                     
+19         219.769326      32.228678       excluding marked processes    
+19         46.000000       6.782330        Unweighted events, alpha=4.777594
+  => Total parameter prop_binmuVBF_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         222.986946      31.486416       total sum                     
+20         222.986946      31.486416       excluding marked processes    
+20         50.000000       7.071068        Unweighted events, alpha=4.459739
+  => Total parameter prop_binmuVBF_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8b923d0
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8b938f0,V-) RooRealSumPdf::pdf_bineleGGF_nuis ""
+    (0x8b56970,V-) RooProdPdf::pdfbins_bineleGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleGGF_nuis
+      2)   pdfbins_bineleGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleGGF (eleGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleGGF_CMS_th1x, pdf pdf_bineleGGF = 114919
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8ba1840
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8ba0b00,V-) RooRealSumPdf::pdf_bineleVBF_nuis ""
+    (0x8ba2830,V-) RooProdPdf::pdfbins_bineleVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleVBF_nuis
+      2)   pdfbins_bineleVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleVBF (eleVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleVBF_CMS_th1x, pdf pdf_bineleVBF = 2489.55
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8dad0c0
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8dae010,V-) RooRealSumPdf::pdf_binmuGGF_nuis ""
+    (0x8d8e0d0,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_nuis
+      2)   pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF = 171010
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8db0350
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8db1380,V-) RooRealSumPdf::pdf_binmuVBF_nuis ""
+    (0x3de4480,V-) RooProdPdf::pdfbins_binmuVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuVBF_nuis
+      2)   pdfbins_binmuVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muVBF (muVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muVBF_CMS_th1x, pdf pdf_binmuVBF = 3906.59
+Error in <TList::Clear>: A list is accessing an object (0x8e62b3c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e62de4) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e6308c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e63334) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./eleGGF_CMS_th1x_prefit.png has been created
+Info in <TCanvas::Print>: png file ./eleVBF_CMS_th1x_prefit.png has been created
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_prefit.png has been created
+Info in <TCanvas::Print>: png file ./muVBF_CMS_th1x_prefit.png has been created
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8c865f0
+  Clients: 
+    (0x8c75080,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x8c87620,V-) RooRealSumPdf::pdf_bineleGGF_bonly_nuis ""
+    (0x8b56970,V-) RooProdPdf::pdfbins_bineleGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleGGF_bonly_nuis
+      2)         pdfbins_bineleGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleGGF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleGGF (eleGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleGGF_CMS_th1x, pdf pdf_bineleGGF_bonly = 122691
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8d89130
+  Clients: 
+    (0x8c75080,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x8d8a190,V-) RooRealSumPdf::pdf_bineleVBF_bonly_nuis ""
+    (0x8ba2830,V-) RooProdPdf::pdfbins_bineleVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleVBF_bonly_nuis
+      2)         pdfbins_bineleVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleVBF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleVBF (eleVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleVBF_CMS_th1x, pdf pdf_bineleVBF_bonly = 1977.2
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8d8bc50
+  Clients: 
+    (0x8c75080,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x8d8ccb0,V-) RooRealSumPdf::pdf_binmuGGF_bonly_nuis ""
+    (0x8d8e0d0,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_bonly_nuis
+      2)         pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF_bonly = 179954
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8c74040
+  Clients: 
+    (0x8c75080,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x8c73440,V-) RooRealSumPdf::pdf_binmuVBF_bonly_nuis ""
+    (0x3de4480,V-) RooProdPdf::pdfbins_binmuVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuVBF_bonly_nuis
+      2)         pdfbins_binmuVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuVBF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muVBF (muVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muVBF_CMS_th1x, pdf pdf_binmuVBF_bonly = 2763.02
+Error in <TList::Clear>: A list is accessing an object (0x8e6407c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e64324) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e645cc) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e64874) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./eleGGF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./eleVBF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./muVBF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_b.png has been created
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8b923d0
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8b938f0,V-) RooRealSumPdf::pdf_bineleGGF_nuis ""
+    (0x8b56970,V-) RooProdPdf::pdfbins_bineleGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleGGF_nuis
+      2)   pdfbins_bineleGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleGGF (eleGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleGGF_CMS_th1x, pdf pdf_bineleGGF = 122959
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8ba1840
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8ba0b00,V-) RooRealSumPdf::pdf_bineleVBF_nuis ""
+    (0x8ba2830,V-) RooProdPdf::pdfbins_bineleVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_bineleVBF_nuis
+      2)   pdfbins_bineleVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_bineleVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore eleVBF (eleVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in eleVBF_CMS_th1x, pdf pdf_bineleVBF = 1985.52
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8dad0c0
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8dae010,V-) RooRealSumPdf::pdf_binmuGGF_nuis ""
+    (0x8d8e0d0,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_nuis
+      2)   pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF = 180155
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x8db0350
+  Clients: 
+    (0x8daf4d0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x8db1380,V-) RooRealSumPdf::pdf_binmuVBF_nuis ""
+    (0x3de4480,V-) RooProdPdf::pdfbins_binmuVBF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuVBF_nuis
+      2)   pdfbins_binmuVBF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuVBF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muVBF (muVBF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muVBF_CMS_th1x, pdf pdf_binmuVBF = 2774.79
+Error in <TList::Clear>: A list is accessing an object (0x8e655bc) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e65864) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e65b0c) already deleted (list name = TList)
+Error in <TList::Clear>: A list is accessing an object (0x8e65db4) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./eleGGF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./eleVBF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./muVBF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_s.png has been created
+
+ --- FitDiagnostics ---
+Best fit w_min0j: 2  -1.5679/+4.32677e-10  (68% CL)
+Done in 2.27 min (cpu), 2.27 min (real)
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+[#0] ERROR:InputArguments -- RooFitResult::correlation() parameter r is not a floating fit parameter
+diffNuisances run on fitDiagnosticsworkspace.root, at 2020-08-05 00:30:04.978576 with the following options ... {'absolute_values': False, 'show_all_parameters': False, 'format': 'text', 'stol2': 0.5, 'pullDef': '', 'vtol': 0.3, 'stol': 0.1, 'plotfile': 'outputfile.root', 'vtol2': 2.0, 'poi': 'r'}
+
+name                                              b-only fit            s+b fit         rho
+prop_bineleGGF_bin0                           ! -1.52, 0.45!     ! -1.44, 0.46!       +0.00
+prop_bineleGGF_bin1                           ! -0.41, 0.40!     ! -0.34, 0.41!       +0.00
+prop_bineleGGF_bin12                          ! +1.68, 0.40!     ! +1.68, 0.41!       +0.00
+prop_bineleGGF_bin13                          ! -0.33, 0.39!     ! -0.32, 0.39!       +0.00
+prop_bineleGGF_bin14                          ! +0.24, 0.40!     ! +0.25, 0.40!       +0.00
+prop_bineleGGF_bin15                          ! +0.15, 0.37!     ! +0.16, 0.37!       +0.00
+prop_bineleGGF_bin16                          ! +0.63, 0.41!     ! +0.63, 0.41!       +0.00
+prop_bineleGGF_bin17                          ! -1.33, 0.44!     ! -1.32, 0.44!       +0.00
+prop_bineleGGF_bin18                          ! +0.49, 0.42!     ! +0.50, 0.42!       +0.00
+prop_bineleGGF_bin19                          ! +0.47, 0.38!     ! +0.48, 0.38!       +0.00
+prop_bineleGGF_bin2                           ! -0.08, 0.39!     ! -0.01, 0.39!       +0.00
+prop_bineleGGF_bin20                          ! -0.47, 0.45!     ! -0.47, 0.45!       +0.00
+prop_bineleGGF_bin3                           ! +2.18, 0.41!     ! +1.95, 0.40!       +0.00
+prop_bineleVBF_bin0_Wjets1j                      +0.34, 0.57        +0.34, 0.56       +0.00
+prop_bineleVBF_bin1                           ! +0.68, 0.46!     ! +0.68, 0.46!       +0.00
+prop_bineleVBF_bin12                          ! -0.51, 0.42!     ! -0.51, 0.42!       +0.00
+prop_bineleVBF_bin13                             +0.27, 0.53        +0.27, 0.53       +0.00
+prop_bineleVBF_bin14                          ! -1.37, 0.17!     ! -1.37, 0.17!       +0.00
+prop_bineleVBF_bin15                             -1.12, 0.52        -1.12, 0.52       +0.00
+prop_bineleVBF_bin16_QCD_EM                   ! -0.80, 0.12!     ! -0.80, 0.12!       +0.00
+prop_bineleVBF_bin16_Wjets2j                     -0.46, 0.73        -0.46, 0.73       +0.00
+prop_bineleVBF_bin17                          ! -0.17, 0.49!     ! -0.17, 0.49!       +0.00
+prop_bineleVBF_bin18                          ! -1.19, 0.26!     ! -1.19, 0.26!       +0.00
+prop_bineleVBF_bin19                          ! -0.76, 0.26!     ! -0.76, 0.26!       +0.00
+prop_bineleVBF_bin2                           ! -0.40, 0.35!     ! -0.39, 0.35!       +0.00
+prop_bineleVBF_bin20                          ! -1.09, 0.44!     ! -1.09, 0.44!       +0.00
+prop_bineleVBF_bin3                           ! -1.20, 0.12!     ! -1.20, 0.12!       +0.00
+prop_binmuGGF_bin0                            ! -0.21, 0.44!     ! -0.24, 0.44!       +0.00
+prop_binmuGGF_bin1                            ! -0.03, 0.42!     ! -0.07, 0.42!       +0.00
+prop_binmuGGF_bin12                           ! +0.50, 0.43!     ! +0.51, 0.43!       +0.00
+prop_binmuGGF_bin13                           ! +0.77, 0.43!     ! +0.78, 0.43!       +0.00
+prop_binmuGGF_bin14                           ! +0.24, 0.42!     ! +0.26, 0.42!       +0.00
+prop_binmuGGF_bin15                           ! -1.41, 0.20!     ! -1.41, 0.20!       +0.00
+prop_binmuGGF_bin16                           ! -0.35, 0.39!     ! -0.34, 0.39!       +0.00
+prop_binmuGGF_bin17                           ! -1.66, 0.20!     ! -1.65, 0.20!       +0.00
+prop_binmuGGF_bin18                           ! +0.97, 0.48!     ! +0.98, 0.48!       +0.00
+prop_binmuGGF_bin19                           ! -0.07, 0.23!     ! -0.07, 0.23!       +0.00
+prop_binmuGGF_bin2                            ! +0.31, 0.46!     ! +0.39, 0.46!       +0.00
+prop_binmuGGF_bin20                           ! -0.55, 0.47!     ! -0.55, 0.47!       +0.00
+prop_binmuGGF_bin3                            ! -0.62, 0.38!     ! -0.55, 0.39!       +0.00
+prop_binmuVBF_bin0                            ! -0.14, 0.30!     ! -0.14, 0.30!       +0.00
+prop_binmuVBF_bin1                            ! -1.46, 0.32!     ! -1.46, 0.32!       +0.00
+prop_binmuVBF_bin12                              +0.85, 0.51        +0.85, 0.51       +0.00
+prop_binmuVBF_bin13                              +0.53, 0.53        +0.53, 0.53       +0.00
+prop_binmuVBF_bin14_QCD_MU                    ! -0.96, 0.02!     ! -0.96, 0.02!       +0.00
+prop_binmuVBF_bin14_Wjets2j                      -0.56, 0.87        -0.56, 0.87       +0.00
+prop_binmuVBF_bin15                              -1.16, 0.51        -1.17, 0.51       +0.00
+prop_binmuVBF_bin16                           ! -1.03, 0.35!     ! -1.03, 0.35!       +0.00
+prop_binmuVBF_bin17                           ! -0.34, 0.49!     ! -0.34, 0.49!       +0.00
+prop_binmuVBF_bin18                           ! -0.71, 0.45!     ! -0.71, 0.45!       +0.00
+prop_binmuVBF_bin19                           ! -0.67, 0.37!     ! -0.67, 0.37!       +0.00
+prop_binmuVBF_bin2                            ! -0.96, 0.46!     ! -0.97, 0.46!       +0.00
+prop_binmuVBF_bin20                           ! -2.54, 0.32!     ! -2.55, 0.32!       +0.00
+prop_binmuVBF_bin3                            ! -1.59, 0.41!     ! -1.59, 0.41!       +0.00

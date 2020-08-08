@@ -1,0 +1,16 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+   w_min :    +0.666   -0.013/+0.014 (68%)
+   w_max :    +1.151   -0.009/+0.009 (68%)
+Done in 0.00 min (cpu), 0.01 min (real)

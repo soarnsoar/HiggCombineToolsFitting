@@ -1,0 +1,6 @@
+#workspace -->run_fitdiagnosis.sh->run_diffNuisances.sh (input = fitdiagnosis)
+#input=combined.txt
+source combineCards.sh
+source ../make_workspace.sh combined.txt
+source ../run_fitdiagnosis.sh combined.root
+source ../run_diffNuisances.sh fitDiagnosticsworkspace.root

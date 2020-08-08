@@ -1,0 +1,32 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : w_min0j
+   w_min0j :    +1.500   -1.000/+0.000 (68%)
+ Warning - No valid low-error found, will report difference to minimum of range for : w_max0j
+   w_max0j :    +0.500   -0.000/+1.000 (68%)
+ Warning - No valid low-error found, will report difference to minimum of range for : w_min1j
+   w_min1j :    +0.500   -0.000/+0.094 (68%)
+ Warning - No valid high-error found, will report difference to maximum of range for : w_max1j
+   w_max1j :    +1.500   -0.012/+0.000 (68%)
+   w_min2j :    +0.755   -0.017/+0.018 (68%)
+   w_max2j :    +1.004   -0.014/+0.013 (68%)
+Done in 0.01 min (cpu), 0.01 min (real)

@@ -1,0 +1,308 @@
+<setPhysicsOptions>
+['simple']
+<doParametersOfInterest>
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets1j_slope
+Channel muGGF will use autoMCStats with settings: event-threshold=10, include-signal=0, hist-mode=1
+<getYieldScale>
+ggHtautaulnuqq_M125
+<getYieldScale>
+DY
+<getYieldScale>
+WW
+<getYieldScale>
+ZHWWlnuqq_M125
+<getYieldScale>
+WZ
+<getYieldScale>
+WpHWWlnuqq_M125
+<getYieldScale>
+ZZZ
+<getYieldScale>
+top
+<getYieldScale>
+Wjets2j
+<getYieldScale>
+Wjets2j_slope
+<getYieldScale>
+Wjets1j
+<getYieldScale>
+WmHtautaulnuqq_M125
+<getYieldScale>
+vbfHtautaulnuqq_M125
+<getYieldScale>
+WpHtautaulnuqq_M125
+<getYieldScale>
+WZZ
+<getYieldScale>
+ZHtautaulnuqq_M125
+<getYieldScale>
+ZZ
+<getYieldScale>
+WmHWWlnuqq_M125
+<getYieldScale>
+WWW
+<getYieldScale>
+WWZ
+<getYieldScale>
+Wjets1j_slope
+============================================================
+Analysing bin errors for: prop_binmuGGF
+Poisson cut-off: 10
+Processes excluded for sums: Wjets2j_slope Wjets1j_slope
+============================================================
+Bin        Contents        Error           Notes                         
+0          45.778552       10.631693       total sum                     
+0          40.535672       10.447263       excluding marked processes    
+0          15.000000       3.872983        Unweighted events, alpha=3.051903
+  => Total parameter prop_binmuGGF_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          70.974017       18.560260       total sum                     
+1          60.630396       18.158847       excluding marked processes    
+1          11.000000       3.316625        Unweighted events, alpha=6.452183
+  => Total parameter prop_binmuGGF_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          110.453036      27.500312       total sum                     
+2          95.989616       26.938779       excluding marked processes    
+2          13.000000       3.605551        Unweighted events, alpha=8.496387
+  => Total parameter prop_binmuGGF_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          1210.561850     72.702018       total sum                     
+3          1032.468195     71.303584       excluding marked processes    
+3          210.000000      14.491377       Unweighted events, alpha=5.764580
+  => Total parameter prop_binmuGGF_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          0.000000        0.000000        total sum                     
+4          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+5          0.000000        0.000000        total sum                     
+5          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+6          0.000000        0.000000        total sum                     
+6          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+7          0.000000        0.000000        total sum                     
+7          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+8          0.000000        0.000000        total sum                     
+8          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+9          0.000000        0.000000        total sum                     
+9          0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+10         0.000000        0.000000        total sum                     
+10         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+11         0.000000        0.000000        total sum                     
+11         0.000000        0.000000        excluding marked processes    
+  => Error is zero, ignore      
+------------------------------------------------------------
+12         900.058086      41.908084       total sum                     
+12         832.554369      41.478282       excluding marked processes    
+12         403.000000      20.074860       Unweighted events, alpha=2.233395
+  => Total parameter prop_binmuGGF_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         642.843888      40.363051       total sum                     
+13         591.854039      39.961742       excluding marked processes    
+13         219.000000      14.798649       Unweighted events, alpha=2.935360
+  => Total parameter prop_binmuGGF_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         387.659791      24.231005       total sum                     
+14         358.514170      24.018976       excluding marked processes    
+14         223.000000      14.933185       Unweighted events, alpha=1.738385
+  => Total parameter prop_binmuGGF_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         189.001154      18.738396       total sum                     
+15         177.430441      18.584732       excluding marked processes    
+15         91.000000       9.539392        Unweighted events, alpha=2.076936
+  => Total parameter prop_binmuGGF_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+16         149.771078      15.408291       total sum                     
+16         139.925031      15.292967       excluding marked processes    
+16         84.000000       9.165151        Unweighted events, alpha=1.782989
+  => Total parameter prop_binmuGGF_bin16[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+17         246.067578      20.442943       total sum                     
+17         233.619631      20.315535       excluding marked processes    
+17         132.000000      11.489125       Unweighted events, alpha=1.864148
+  => Total parameter prop_binmuGGF_bin17[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+18         124.251130      12.536313       total sum                     
+18         121.998826      12.486492       excluding marked processes    
+18         95.000000       9.746794        Unweighted events, alpha=1.307907
+  => Total parameter prop_binmuGGF_bin18[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+19         163.363233      9.115374        total sum                     
+19         162.797620      9.100029        excluding marked processes    
+19         320.000000      17.888544       Unweighted events, alpha=0.510510
+  => Total parameter prop_binmuGGF_bin19[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+20         74.221326       5.533487        total sum                     
+20         74.029638       5.532404        excluding marked processes    
+20         179.000000      13.379088       Unweighted events, alpha=0.414644
+  => Total parameter prop_binmuGGF_bin20[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x9a0e490
+  Clients: 
+    (0x9a3e3e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x9a0f9b0,V-) RooRealSumPdf::pdf_binmuGGF_nuis ""
+    (0x99d5110,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_nuis
+      2)   pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF = 4378.26
+Error in <TList::Clear>: A list is accessing an object (0x9b579b4) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_prefit.png has been created
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x9a1d900
+  Clients: 
+    (0x9a1e920,V-) RooSimultaneousOpt::model_b "model_b"
+  Servers: 
+    (0x9a1cbc0,V-) RooRealSumPdf::pdf_binmuGGF_bonly_nuis ""
+    (0x99d5110,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_bonly_nuis
+      2)         pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF_bonly"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF_bonly = 2815.49
+Error in <TList::Clear>: A list is accessing an object (0x9b57f04) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_b.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_b.png has been created
+ PDF CHECKING 
+--- RooAbsArg ---
+  Value State: DIRTY
+  Shape State: DIRTY
+  Attributes:  [SnapShot_ExtRefClone,forceGenBinned] 
+  Address: 0x9a0e490
+  Clients: 
+    (0x9a3e3e0,V-) RooSimultaneousOpt::model_s "model_s"
+  Servers: 
+    (0x9a0f9b0,V-) RooRealSumPdf::pdf_binmuGGF_nuis ""
+    (0x99d5110,V-) RooProdPdf::pdfbins_binmuGGF ""
+  Proxies: 
+    !pdfs -> 
+      1)  pdf_binmuGGF_nuis
+      2)   pdfbins_binmuGGF
+--- RooAbsReal ---
+
+  Plot label is "pdf_binmuGGF"
+--- RooAbsPdf ---
+Cached value = 0
+DataStore muGGF (muGGF)
+  Contains 21 entries
+  Observables: 
+    1)  CMS_th1x = 20.5  L(0 - 21) B(21)  "CMS_th1x"
+    2)    weight = 0  L(-1e+09 - 1e+09)  "weight"
+  Dataset variable "_weight_" is interpreted as the event weight
+ ------------ 
+[utils::makePlots] Number of events for pdf in muGGF_CMS_th1x, pdf pdf_binmuGGF = 4372.13
+Error in <TList::Clear>: A list is accessing an object (0x9b58454) already deleted (list name = TList)
+Info in <TCanvas::Print>: png file ./muGGF_CMS_th1x_fit_s.png has been created
+Info in <TCanvas::Print>: png file ./covariance_fit_s.png has been created
+
+ --- FitDiagnostics ---
+Best fit w_min: 1.5  -0.07415/+1.92684e-09  (68% CL)
+Done in 0.34 min (cpu), 0.36 min (real)
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+ModelConfig 'ModelConfig' defines more than one parameter of interest. This is not supported in some statistical methods.
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Enabling analytic minimisation of bin-wise statistical uncertainty parameters
+>> Disabling analytic minimisation of bin-wise statistical uncertainty parameters
+
+ --- MultiDimFit ---
+best fit parameter values and profile-likelihood uncertainties: 
+ Warning - No valid high-error found, will report difference to maximum of range for : w_min
+   w_min :    +1.500   -0.075/+0.000 (68%)
+   w_max :    +0.922   -0.099/+0.096 (68%)
+Done in 0.00 min (cpu), 0.00 min (real)

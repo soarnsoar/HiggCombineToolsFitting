@@ -1,0 +1,19 @@
+Combination of muGGF=../Datacards2016/muCH__BoostedGGF__SB__METOver40__PtOverM04______/WtaggerFatjet_DeepAK8WP2p5_nom_mass/datacard.txt
+imax 1 number of bins
+jmax 20 number of processes minus 1
+kmax 0 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes *         muGGF     ../Datacards2016/muCH__BoostedGGF__SB__METOver40__PtOverM04______/WtaggerFatjet_DeepAK8WP2p5_nom_mass/shapes/histos_muCH__BoostedGGF__SB__METOver40__PtOverM04______.root histo_$PROCESS histo_$PROCESS_$SYSTEMATIC
+shapes data_obs  muGGF     ../Datacards2016/muCH__BoostedGGF__SB__METOver40__PtOverM04______/WtaggerFatjet_DeepAK8WP2p5_nom_mass/shapes/histos_muCH__BoostedGGF__SB__METOver40__PtOverM04______.root histo_Data
+----------------------------------------------------------------------------------------------------------------------------------
+bin          muGGF
+observation  4382 
+----------------------------------------------------------------------------------------------------------------------------------
+bin          muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF                 muGGF               
+process      Wjets2j               Wjets1j               Wjets0j               WpHtautaulnuqq_M125   WWW                   WZZ                   ZZZ                   WW                    ZHtautaulnuqq_M125    ggHtautaulnuqq_M125   ZHWWlnuqq_M125        WmHtautaulnuqq_M125   top                   WmHWWlnuqq_M125       vbfHtautaulnuqq_M125  WWZ                   ZZ                    DY                    QCD_MU                WZ                    WpHWWlnuqq_M125     
+process      -2                    -1                    0                     1                     2                     3                     4                     5                     6                     7                     8                     9                     10                    11                    12                    13                    14                    15                    16                    17                    18                  
+rate         2314.0438             271.3518              0                     0.4762                2.4607                0.367                 0.0196                199.961               0.3495                0.1711                0.6716                0.1859                1219.4047             1.0716                0.0448                3.1607                2.9637                93.7931               0                     58.9071               2.0805              
+----------------------------------------------------------------------------------------------------------------------------------
+mW_intercept_Wjets0j  rateParam muGGF Wjets0j 1.0000  
+mW_intercept_Wjets1j  rateParam muGGF Wjets1j 1.0000  
+mW_intercept_Wjets2j  rateParam muGGF Wjets2j 1.0000  
